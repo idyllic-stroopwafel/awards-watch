@@ -8,3 +8,15 @@
 .feature.has-image::before{opacity:.4}
 .artwork-note{color:#9c98a1;font-size:11px;max-width:800px;margin-top:26px}
 .artwork-note a{text-decoration:underline;text-decoration-color:#8b7a6b;text-underline-offset:3px}
+
+
+.assessment{border-top:1px solid #4a4146;margin-top:12px;padding-top:9px}
+.assessment summary{display:flex;align-items:center;justify-content:space-between;gap:8px;cursor:pointer;list-style:none;color:#e1b785;font-size:11px;font-weight:650;line-height:1.45}
+.assessment summary::-webkit-details-marker{display:none}
+.assessment summary span{font-size:16px;line-height:1}
+.assessment[open] summary span{transform:rotate(45deg)}
+.assessment-body{padding:9px 0 3px;font-size:12px;line-height:1.6;color:#c9c2c6}
+.assessment-body p{margin:0 0 11px}
+.assessment-body b{display:block;color:#f3e4d4;font-size:10px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:3px}
+.assessment-verdict{border-left:2px solid #d8ad79;padding-left:9px}
+.poster-card:has(.assessment[open]){position:relative;z-index:1}
