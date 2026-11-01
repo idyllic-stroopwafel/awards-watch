@@ -20,3 +20,5 @@
 .assessment-body b{display:block;color:#f3e4d4;font-size:10px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:3px}
 .assessment-verdict{border-left:2px solid #d8ad79;padding-left:9px}
 .poster-card:has(.assessment[open]){position:relative;z-index:1}
+
+.catalogue-synopsis{font-size:12px;line-height:1.55;color:#ddd5d2;margin:9px 0 5px}.catalogue-people{font-size:11px;line-height:1.5;color:#aba3ac;margin:4px 0 12px}.catalogue-people b{color:#d9b184;font-weight:650}
