@@ -56,6 +56,16 @@
         "case": "A high-profile science-fiction adaptation with broad audience appeal and substantial craft work could attract attention in visual effects, production design, sound, and other technical categories.",
         "caution": "Genre appeal and technical achievement do not necessarily convert into Best Picture support. A screenplay and emotional-response consensus would matter.",
         "verdict": "Craft prospects may be easier to justify than a top-tier Best Picture prediction."
+      },
+      "mood": "either",
+      "availability": {
+        "region": "CA",
+        "service": "Prime Video",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/movie/project-hail-mary",
+        "note": "Science-fiction adventure with humour and big emotional stakes.",
+        "score": 91
       }
     },
     {
@@ -140,6 +150,16 @@
         "case": "Its real-time medical-drama format, ensemble work, and sustained tension give Emmy voters clear acting, writing, and drama-series elements to consider.",
         "caution": "Competition from returning prestige dramas, plus the question of whether a later season sustains its impact, will shape the next race.",
         "verdict": "Established personal favourite with credible drama-category appeal."
+      },
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Crave",
+        "access": "subscription",
+        "checked": "2026-10-31",
+        "source": "https://www.justwatch.com/ca/tv-show/the-pitt",
+        "note": "High-intensity, real-time hospital drama. A Peter and Hilary favourite.",
+        "score": 94
       }
     },
     {
@@ -154,6 +174,16 @@
         "case": "Vince Gilligan’s creative reputation and the series’ ambitious premise create a plausible route through drama, writing, directing, and performance categories.",
         "caution": "Genre storytelling can be divisive, and a creator’s past success cannot substitute for evidence about the eligible season.",
         "verdict": "Worth monitoring closely; season-specific Emmy prospects require review."
+      },
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/pluribus",
+        "note": "Vince Gilligan's unsettling science-fiction drama about a world of enforced happiness.",
+        "score": 93
       }
     },
     {
@@ -168,6 +198,16 @@
         "case": "Its blend of comedy and unsettling genre elements gives it a potentially distinctive identity in a crowded comedy field.",
         "caution": "Tone and category positioning may complicate an awards campaign; critical reception and eligibility need checking.",
         "verdict": "Current watch, not a proven Emmy frontrunner."
+      },
+      "mood": "either",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-10-29",
+        "source": "https://www.justwatch.com/ca/tv-show/widows-bay",
+        "note": "A cursed island community, a determined mayor, and darkly comic horror.",
+        "score": 90
       }
     },
     {
@@ -182,6 +222,16 @@
         "case": "An entertainment-industry satire has natural appeal to television-industry voters, particularly through comedy writing, performances, and direction.",
         "caution": "A strong first impression does not guarantee repeat wins; category competition and the quality of the eligible season matter.",
         "verdict": "Personal favourite with a persuasive comedy-awards profile."
+      },
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-10-30",
+        "source": "https://www.justwatch.com/ca/tv-show/the-studio-2025",
+        "note": "Seth Rogen's sharp Hollywood workplace satire. A Peter and Hilary favourite.",
+        "score": 96
       }
     },
     {
@@ -196,6 +246,16 @@
         "case": "The scale of its production gives it a credible technical-Emmy pathway through visual effects, production design, costumes, music, and sound.",
         "caution": "Expensive production does not itself establish a Drama Series nomination case; broader critical consensus and season eligibility matter.",
         "verdict": "Highly anticipated personally; stronger craft case than drama-series forecast."
+      },
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Prime Video",
+        "access": "subscription",
+        "checked": "2026-10-31",
+        "source": "https://www.justwatch.com/ca/tv-show/the-lord-of-the-rings-the-rings-of-power",
+        "note": "Epic fantasy in Middle-earth. Earlier seasons available; season three is not yet available.",
+        "score": 80
       }
     },
     {
@@ -241,5 +301,7 @@
       }
     }
   ],
-  "events": []
+  "events": [],
+  "availabilityUpdated": "2026-11-01",
+  "availabilityPolicy": "A curated snapshot verified against Canadian JustWatch listings, not a real-time streaming API. Recheck provider availability before watching; exclude entries older than seven days."
 }
