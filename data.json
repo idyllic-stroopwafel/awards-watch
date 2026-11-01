@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-01",
-  "notice": "Editorial awards assessments are provisional, not nominations or statistical forecasts. Personal enthusiasm is distinct from awards likelihood. Release dates withheld pending Canadian verification.",
+  "notice": "Expanded from the November 1, 2026 Monthly Awards Watch: editorial predictions, not nominations. Only separately sourced Canadian availability may be used by Watch Tonight.",
   "titles": [
     {
       "title": "The Odyssey",
@@ -11,38 +11,47 @@
       "poster": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/ca/onesheet.jpg",
       "artworkCredit": "Universal Pictures Canada",
       "assessment": {
-        "case": "Christopher Nolan’s large-scale literary adaptation has the kind of directorial profile, technical ambition, and cultural visibility that can generate support across Academy branches.",
-        "caution": "Spectacle alone does not guarantee a screenplay or acting nomination; the final race depends on critical consensus and how strongly voters connect with the storytelling.",
-        "verdict": "High-profile contender; placement is an editorial judgment, not a measured probability."
-      }
+        "case": "Nolan’s blockbuster stature and technical ambition support a major Best Picture bid.",
+        "caution": "The screenplay and emotional connection still need to match the spectacle.",
+        "verdict": "November editorial rank #1; prediction, not a nomination."
+      },
+      "rank": 1,
+      "synopsis": "Odysseus fights his way home after the Trojan War.",
+      "people": "Christopher Nolan; Matt Damon, Anne Hathaway, Tom Holland"
     },
     {
       "title": "La Bola Negra",
       "type": "movie",
-      "tier": "Emerging",
+      "tier": "Frontrunner",
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://www.elseptimoarte.net/carteles/la_bola_negra_109489.jpg",
       "artworkCredit": "Official Movistar Plus+ promotional art",
       "assessment": {
-        "case": "Its literary and artistic pedigree makes it worth following on the international festival circuit, where strong reviews can turn an initially niche title into a critics’ favourite.",
-        "caution": "An international festival profile does not automatically translate into Best Picture traction. Distribution, campaign resources, and US awards visibility are key unknowns.",
-        "verdict": "Exploratory watch; the earlier frontrunner label was too confident."
-      }
+        "case": "Distinctive material and Netflix backing give it international awards potential.",
+        "caution": "The US campaign and Academy crossover remain uncertain.",
+        "verdict": "November editorial rank #2; prediction, not a nomination."
+      },
+      "rank": 2,
+      "synopsis": "A Spanish literary drama exploring artistic lives and queer identity.",
+      "people": "Javier Ambrossi and Javier Calvo"
     },
     {
       "title": "Wild Horse Nine",
       "type": "movie",
-      "tier": "Emerging",
+      "tier": "Frontrunner",
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://www.movieposters.com/cdn/shop/files/wild-horse-nine_fudqmzww_71c46d00-2453-468e-b571-3aff07d0c207.jpg?v=1776095331&width=1680",
       "artworkCredit": "Theatrical key art via MoviePosters.com",
       "assessment": {
-        "case": "Martin McDonagh’s past awards success, dialogue-driven storytelling, and recognizable ensemble make this a natural film to monitor for writing and performances.",
-        "caution": "The film still needs critical momentum and an effective release campaign. Prior nominations for a director are not evidence of this film’s eventual reception.",
-        "verdict": "Potential above-the-line player, not a confirmed frontrunner."
-      }
+        "case": "McDonagh’s writing and acting pedigree plus festival attention make it a strong prospect.",
+        "caution": "Some critical reaction questions the stylized dialogue.",
+        "verdict": "November editorial rank #3; prediction, not a nomination."
+      },
+      "rank": 3,
+      "synopsis": "Two CIA officers travel to Chile around the 1973 coup.",
+      "people": "Martin McDonagh; John Malkovich, Sam Rockwell"
     },
     {
       "title": "Project Hail Mary",
@@ -53,9 +62,9 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc%40._V1_QL75_UX5530_.jpg",
       "artworkCredit": "Official Amazon MGM promotional poster via IMDb",
       "assessment": {
-        "case": "A high-profile science-fiction adaptation with broad audience appeal and substantial craft work could attract attention in visual effects, production design, sound, and other technical categories.",
-        "caution": "Genre appeal and technical achievement do not necessarily convert into Best Picture support. A screenplay and emotional-response consensus would matter.",
-        "verdict": "Craft prospects may be easier to justify than a top-tier Best Picture prediction."
+        "case": "Audience appeal, Gosling, and ambitious crafts offer a blockbuster route.",
+        "caution": "Craft nominations may prove easier than a Best Picture win.",
+        "verdict": "November editorial rank #4; prediction, not a nomination."
       },
       "mood": "either",
       "availability": {
@@ -66,21 +75,27 @@
         "source": "https://www.justwatch.com/ca/movie/project-hail-mary",
         "note": "Science-fiction adventure with humour and big emotional stakes.",
         "score": 91
-      }
+      },
+      "rank": 4,
+      "synopsis": "A science teacher sent into space must save humanity with help from an unlikely ally.",
+      "people": "Phil Lord and Christopher Miller; Ryan Gosling, Sandra Hüller"
     },
     {
-      "title": "The Invite",
+      "title": "The Debut",
       "type": "movie",
       "tier": "Strong contender",
-      "status": "Watched",
-      "reaction": "We really liked it.",
-      "poster": "https://fr.web.img5.acsta.net/img/f7/7f/f77f3586518f5a56fc0119bb32fc998a.jpg",
-      "artworkCredit": "Theatrical poster via AlloCiné",
+      "status": "Not recorded",
+      "reaction": "",
+      "poster": "https://media.the-numbers.com/images/movie-posters/Debut-The-%282026%29.jpg",
+      "artworkCredit": "Theatrical poster via The Numbers",
       "assessment": {
-        "case": "An actor-led ensemble comedy can build support through performances, writing, and word of mouth, especially if critics champion its tonal precision.",
-        "caution": "Comedies face a tougher route into Best Picture without major critics’ prizes, festival buzz, or an unusually strong campaign.",
-        "verdict": "A personal favourite worth tracking; awards momentum is not established."
-      }
+        "case": "Eisenberg’s recent writing success and the acting ensemble attract attention.",
+        "caution": "Its overall Best Picture momentum is less secure than individual performances.",
+        "verdict": "November editorial rank #5; prediction, not a nomination."
+      },
+      "rank": 5,
+      "synopsis": "A film-industry drama about a demanding director and artistic ambition.",
+      "people": "Jesse Eisenberg; Julianne Moore, Paul Giamatti"
     },
     {
       "title": "Dune: Part Three",
@@ -91,23 +106,44 @@
       "poster": "https://mma.prnasia.com/media2/3004972/ADFC_4.jpg?p=publish",
       "artworkCredit": "Warner Bros. / Legendary film key art",
       "assessment": {
-        "case": "Denis Villeneuve’s franchise has an established record of Academy craft recognition. Scale, world-building, cinematography, sound, and visual effects make it a serious technical-category prospect.",
-        "caution": "Sequels can encounter diminishing enthusiasm, and Best Picture support depends on whether this chapter is seen as a satisfying film in its own right.",
-        "verdict": "Strong craft pedigree; overall placement remains provisional."
-      }
+        "case": "An established craft-awards franchise with directorial ambition.",
+        "caution": "Sequels must demonstrate renewed dramatic urgency.",
+        "verdict": "November editorial rank #6; prediction, not a nomination."
+      },
+      "rank": 6,
+      "synopsis": "Paul Atreides confronts the consequences of his imperial ascent.",
+      "people": "Denis Villeneuve; Timothée Chalamet, Zendaya"
     },
     {
-      "title": "The Debut",
+      "title": "The Invite",
       "type": "movie",
-      "tier": "Emerging",
+      "tier": "Strong contender",
+      "status": "Watched",
+      "reaction": "We really liked it.",
+      "poster": "https://fr.web.img5.acsta.net/img/f7/7f/f77f3586518f5a56fc0119bb32fc998a.jpg",
+      "artworkCredit": "Theatrical poster via AlloCiné",
+      "assessment": {
+        "case": "A compact ensemble and tonal shifts invite acting and writing consideration.",
+        "caution": "Comedy faces an uphill Best Picture campaign.",
+        "verdict": "November editorial rank #7; prediction, not a nomination."
+      },
+      "rank": 7,
+      "synopsis": "A tense dinner party forces two couples to confront their relationships.",
+      "people": "Olivia Wilde; Seth Rogen, Penélope Cruz, Edward Norton"
+    },
+    {
+      "title": "All of a Sudden",
+      "type": "movie",
       "status": "Not recorded",
       "reaction": "",
-      "poster": "https://media.the-numbers.com/images/movie-posters/Debut-The-%282026%29.jpg",
-      "artworkCredit": "Theatrical poster via The Numbers",
+      "tier": "Emerging",
+      "rank": 8,
+      "synopsis": "A care-facility director navigates empathy, mortality, and dignity.",
+      "people": "Ryusuke Hamaguchi; Virginie Efira, Tao Okamoto",
       "assessment": {
-        "case": "A smaller film can break through when critics identify distinctive direction, writing, or a standout performance. It belongs on the discovery list while its reception develops.",
-        "caution": "There is not enough verified campaign or critics’ evidence here to defend a strong-contender ranking.",
-        "verdict": "Watchlist inclusion, not an evidence-backed Best Picture prediction."
+        "case": "Festival response and performances offer a critics-led route.",
+        "caution": "Its contemplative pace may limit crossover.",
+        "verdict": "November editorial rank #8; prediction, not a nomination."
       }
     },
     {
@@ -119,9 +155,57 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
       "artworkCredit": "Official release poster via IMDb",
       "assessment": {
-        "case": "An emerging international title is worth watching for festival reception and critics’ support, which can provide an early path into awards discussion.",
-        "caution": "A festival presence by itself is not proof of Academy traction; distributor support and wider exposure remain uncertain.",
-        "verdict": "Exploratory watch pending stronger evidence."
+        "case": "A respected international auteur brings critics and screenplay potential.",
+        "caution": "Distribution and broad awards traction are uncertain.",
+        "verdict": "November editorial rank #9; prediction, not a nomination."
+      },
+      "rank": 9,
+      "synopsis": "An intimate Korean drama about relationships and emotional ambiguity.",
+      "people": "Lee Chang-dong"
+    },
+    {
+      "title": "You Can See Everything",
+      "type": "movie",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Emerging",
+      "rank": 10,
+      "synopsis": "A hybrid documentary on Elizabeth Holmes before imprisonment.",
+      "people": "Nathan Fielder and Lance Oppenheim; Amanda Seyfried, Christopher Abbott",
+      "assessment": {
+        "case": "Unusual form and festival attention support documentary and directing interest.",
+        "caution": "Best Picture recognition for documentaries remains rare.",
+        "verdict": "November editorial rank #10; prediction, not a nomination."
+      }
+    },
+    {
+      "title": "Artificial",
+      "type": "movie",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Emerging",
+      "rank": 11,
+      "synopsis": "A dramatization of the power struggle at OpenAI.",
+      "people": "Luca Guadagnino; Andrew Garfield, Yura Borisov, Mark Rylance",
+      "assessment": {
+        "case": "A topical subject and high-profile team suggest screenplay and acting potential.",
+        "caution": "A polarizing subject and reception could complicate campaigning.",
+        "verdict": "November editorial rank #11; prediction, not a nomination."
+      }
+    },
+    {
+      "title": "Elsinore",
+      "type": "movie",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Emerging",
+      "rank": 12,
+      "synopsis": "Ian Charleson prepares his final Hamlet performances while gravely ill.",
+      "people": "Simon Stone; Andrew Scott, Olivia Colman, Billie Piper",
+      "assessment": {
+        "case": "Theatre-world prestige and a strong ensemble suggest acting potential.",
+        "caution": "Critical reception and release strategy remain unsettled.",
+        "verdict": "November editorial rank #12; prediction, not a nomination."
       }
     },
     {
@@ -133,9 +217,42 @@
       "poster": "https://fr.web.img6.acsta.net/img/e4/d9/e4d9059cc46168a50327511a3b1d64d8.jpg",
       "artworkCredit": "Festival / distributor promotional poster via AlloCiné",
       "assessment": {
-        "case": "A filmmaker-driven drama can become relevant through reviews, festival recognition, and a distinctive directorial voice.",
-        "caution": "Its awards path is unclear without a substantiated reception and distribution picture.",
-        "verdict": "Exploratory watch pending stronger evidence."
+        "case": "International-director pedigree gives it a festival and critics pathway.",
+        "caution": "Its US campaign remains uncertain.",
+        "verdict": "November editorial rank #13; prediction, not a nomination."
+      },
+      "rank": 13,
+      "synopsis": "An intimate Romanian drama exploring family and cultural tensions.",
+      "people": "Cristian Mungiu"
+    },
+    {
+      "title": "I Play Rocky",
+      "type": "movie",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Emerging",
+      "rank": 14,
+      "synopsis": "An unknown Stallone fights to play the lead in his own Rocky screenplay.",
+      "people": "Peter Farrelly; Anthony Ippolito, Matt Dillon",
+      "assessment": {
+        "case": "An industry origin story could appeal to acting and writing voters.",
+        "caution": "It must rise above conventional biopic formulas.",
+        "verdict": "November editorial rank #14; prediction, not a nomination."
+      }
+    },
+    {
+      "title": "Club Kid",
+      "type": "movie",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Emerging",
+      "rank": 15,
+      "synopsis": "A New York nightlife promoter discovers he has a young son.",
+      "people": "Jordan Firstman; Cara Delevingne, Diego Calva",
+      "assessment": {
+        "case": "A distinctive indie voice could attract critics.",
+        "caution": "Awards traction remains speculative.",
+        "verdict": "November editorial rank #15; prediction, not a nomination."
       }
     },
     {
@@ -147,9 +264,9 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzIzM2YtYTkzMi00NTg1LTgxZDItMDVmN2NhMzUzZGMxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
       "artworkCredit": "Max Original official key art via IMDb",
       "assessment": {
-        "case": "Its real-time medical-drama format, ensemble work, and sustained tension give Emmy voters clear acting, writing, and drama-series elements to consider.",
-        "caution": "Competition from returning prestige dramas, plus the question of whether a later season sustains its impact, will shape the next race.",
-        "verdict": "Established personal favourite with credible drama-category appeal."
+        "case": "Strong drama, writing, and acting pedigree.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
       },
       "mood": "serious",
       "availability": {
@@ -160,78 +277,64 @@
         "source": "https://www.justwatch.com/ca/tv-show/the-pitt",
         "note": "High-intensity, real-time hospital drama. A Peter and Hilary favourite.",
         "score": 94
-      }
+      },
+      "synopsis": "A Pittsburgh emergency department’s intense shift unfolds in real time.",
+      "people": "R. Scott Gemmill; Noah Wyle"
     },
     {
-      "title": "Pluribus",
+      "title": "The Diplomat",
       "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
       "tier": "Drama",
-      "status": "Up to date",
-      "reaction": "",
-      "poster": "https://resizing.flixster.com/_Vs6ORv-EUJBMr-PfIAqL6EAm-A%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMmQ2MWQ4MGMtNzQyNi00NzY0LWE1NmQtMWU3ZmNjMzI3NmVjLnBuZw%3D%3D",
-      "artworkCredit": "Apple TV key art via Rotten Tomatoes",
+      "synopsis": "A US ambassador balances global crises and a volatile marriage.",
+      "people": "Debora Cahn; Keri Russell, Rufus Sewell",
       "assessment": {
-        "case": "Vince Gilligan’s creative reputation and the series’ ambitious premise create a plausible route through drama, writing, directing, and performance categories.",
-        "caution": "Genre storytelling can be divisive, and a creator’s past success cannot substitute for evidence about the eligible season.",
-        "verdict": "Worth monitoring closely; season-specific Emmy prospects require review."
-      },
-      "mood": "serious",
-      "availability": {
-        "region": "CA",
-        "service": "Apple TV+",
-        "access": "subscription",
-        "checked": "2026-11-01",
-        "source": "https://www.justwatch.com/ca/tv-show/pluribus",
-        "note": "Vince Gilligan's unsettling science-fiction drama about a world of enforced happiness.",
-        "score": 93
+        "case": "Well-reviewed season and Russell’s performance strengthen its case.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
       }
     },
     {
-      "title": "Widow's Bay",
+      "title": "The Gilded Age",
       "type": "tv",
-      "tier": "Comedy",
-      "status": "Up to date",
+      "status": "Not recorded",
       "reaction": "",
-      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/623/1559488.jpg",
-      "artworkCredit": "Apple TV promotional poster via TVmaze",
+      "tier": "Drama",
+      "synopsis": "Rival families and their staff navigate wealth and power in 1880s New York.",
+      "people": "Julian Fellowes; Carrie Coon, Christine Baranski",
       "assessment": {
-        "case": "Its blend of comedy and unsettling genre elements gives it a potentially distinctive identity in a crowded comedy field.",
-        "caution": "Tone and category positioning may complicate an awards campaign; critical reception and eligibility need checking.",
-        "verdict": "Current watch, not a proven Emmy frontrunner."
-      },
-      "mood": "either",
-      "availability": {
-        "region": "CA",
-        "service": "Apple TV+",
-        "access": "subscription",
-        "checked": "2026-10-29",
-        "source": "https://www.justwatch.com/ca/tv-show/widows-bay",
-        "note": "A cursed island community, a determined mayor, and darkly comic horror.",
-        "score": 90
+        "case": "Dependable acting and period-craft contender.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
       }
     },
     {
-      "title": "The Studio",
+      "title": "War",
       "type": "tv",
-      "tier": "Comedy",
-      "status": "Favourite",
-      "reaction": "An established favourite.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "artworkCredit": "Apple TV official key art via IMDb",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Drama",
+      "synopsis": "An emerging legal drama of institutional conflict.",
+      "people": "Creative and cast details under review",
       "assessment": {
-        "case": "An entertainment-industry satire has natural appeal to television-industry voters, particularly through comedy writing, performances, and direction.",
-        "caution": "A strong first impression does not guarantee repeat wins; category competition and the quality of the eligible season matter.",
-        "verdict": "Personal favourite with a persuasive comedy-awards profile."
-      },
-      "mood": "light",
-      "availability": {
-        "region": "CA",
-        "service": "Apple TV+",
-        "access": "subscription",
-        "checked": "2026-10-30",
-        "source": "https://www.justwatch.com/ca/tv-show/the-studio-2025",
-        "note": "Seth Rogen's sharp Hollywood workplace satire. A Peter and Hilary favourite.",
-        "score": 96
+        "case": "Positive early reaction; the campaign remains unproven.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Black Doves",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Drama",
+      "synopsis": "A London spy faces a dangerous political and personal crisis.",
+      "people": "Joe Barton; Keira Knightley, Ben Whishaw",
+      "assessment": {
+        "case": "Star performances and stylish writing offer a possible route.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
       }
     },
     {
@@ -243,9 +346,9 @@
       "poster": "https://www.impawards.com/tv/posters/lord_of_the_rings_the_rings_of_power_ver66_xxlg.jpg",
       "artworkCredit": "Prime Video official series promotional poster via IMP Awards",
       "assessment": {
-        "case": "The scale of its production gives it a credible technical-Emmy pathway through visual effects, production design, costumes, music, and sound.",
-        "caution": "Expensive production does not itself establish a Drama Series nomination case; broader critical consensus and season eligibility matter.",
-        "verdict": "Highly anticipated personally; stronger craft case than drama-series forecast."
+        "case": "Especially plausible in effects, costumes, and design.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
       },
       "mood": "serious",
       "availability": {
@@ -256,21 +359,171 @@
         "source": "https://www.justwatch.com/ca/tv-show/the-lord-of-the-rings-the-rings-of-power",
         "note": "Epic fantasy in Middle-earth. Earlier seasons available; season three is not yet available.",
         "score": 80
+      },
+      "synopsis": "Middle-earth faces Sauron’s ascent and the making of the Rings.",
+      "people": "J. D. Payne and Patrick McKay; Morfydd Clark"
+    },
+    {
+      "title": "Pluribus",
+      "type": "tv",
+      "tier": "Drama",
+      "status": "Up to date",
+      "reaction": "",
+      "poster": "https://resizing.flixster.com/_Vs6ORv-EUJBMr-PfIAqL6EAm-A%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMmQ2MWQ4MGMtNzQyNi00NzY0LWE1NmQtMWU3ZmNjMzI3NmVjLnBuZw%3D%3D",
+      "artworkCredit": "Apple TV key art via Rotten Tomatoes",
+      "assessment": {
+        "case": "Gilligan’s pedigree and Seehorn’s performance drive the case.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Drama field; not a confirmed nomination."
+      },
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/pluribus",
+        "note": "Vince Gilligan's unsettling science-fiction drama about a world of enforced happiness.",
+        "score": 93
+      },
+      "synopsis": "A novelist resists a global transformation that makes people unnaturally happy.",
+      "people": "Vince Gilligan; Rhea Seehorn"
+    },
+    {
+      "title": "The Studio",
+      "type": "tv",
+      "tier": "Comedy",
+      "status": "Favourite",
+      "reaction": "An established favourite.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "artworkCredit": "Apple TV official key art via IMDb",
+      "assessment": {
+        "case": "Industry satire and ensemble strength suit Emmy voters.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      },
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-10-30",
+        "source": "https://www.justwatch.com/ca/tv-show/the-studio-2025",
+        "note": "Seth Rogen's sharp Hollywood workplace satire. A Peter and Hilary favourite.",
+        "score": 96
+      },
+      "synopsis": "A Hollywood executive struggles to make films in a chaotic industry.",
+      "people": "Seth Rogen and Evan Goldberg; Seth Rogen, Catherine O’Hara"
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "An optimistic coach transforms an English football club.",
+      "people": "Jason Sudeikis and collaborators; Jason Sudeikis",
+      "assessment": {
+        "case": "A revival with enormous institutional goodwill.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
       }
     },
     {
-      "title": "Carrie",
+      "title": "Youth",
       "type": "tv",
-      "tier": "Limited series",
-      "status": "Excited to watch",
-      "reaction": "Really excited to watch.",
-      "poster": "https://imagenes.hobbyconsolas.com/files/image_640_auto/uploads/imagenes/2026/09/21/6ab1605404dce4-85022941.jpeg",
-      "artworkCredit": "Prime Video official series poster via Hobby Consolas",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "A contemporary character comedy drawing unusually strong early acclaim.",
+      "people": "Cast and creators under review",
       "assessment": {
-        "case": "Mike Flanagan’s character-driven approach to horror could create opportunities for performances, writing, and limited-series craft recognition.",
-        "caution": "Horror faces historical awards headwinds, and an unreleased or unassessed season cannot be ranked on reception.",
-        "verdict": "Anticipated project, not yet a demonstrated Emmy contender."
+        "case": "An emerging comedy contender in the November report.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
       }
+    },
+    {
+      "title": "Nobody Wants This",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "A podcaster and a rabbi pursue an unlikely relationship.",
+      "people": "Erin Foster; Kristen Bell, Adam Brody",
+      "assessment": {
+        "case": "A popular series with acting and writing opportunities.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Only Murders in the Building",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "Three neighbours investigate murders while producing a podcast.",
+      "people": "Steve Martin and John Hoffman; Steve Martin, Martin Short, Selena Gomez",
+      "assessment": {
+        "case": "An established comedy nominee with durable ensemble appeal.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Stick",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "A former golf professional mentors a young player.",
+      "people": "Jason Keller; Owen Wilson",
+      "assessment": {
+        "case": "Acting may be a stronger route than Comedy Series.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "St. Denis Medical",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Comedy",
+      "synopsis": "A cash-strapped hospital staff struggles through daily chaos.",
+      "people": "Justin Spitzer and Eric Ledgin; Wendi McLendon-Covey",
+      "assessment": {
+        "case": "An emerging broadcast-comedy wildcard.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Widow's Bay",
+      "type": "tv",
+      "tier": "Comedy",
+      "status": "Up to date",
+      "reaction": "",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/623/1559488.jpg",
+      "artworkCredit": "Apple TV promotional poster via TVmaze",
+      "assessment": {
+        "case": "A distinctive horror-comedy with performance potential.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Comedy field; not a confirmed nomination."
+      },
+      "mood": "either",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-10-29",
+        "source": "https://www.justwatch.com/ca/tv-show/widows-bay",
+        "note": "A cursed island community, a determined mayor, and darkly comic horror.",
+        "score": 90
+      },
+      "synopsis": "An island town grapples with a supernatural curse.",
+      "people": "Matthew Rhys; further credits under review"
     },
     {
       "title": "East of Eden",
@@ -281,9 +534,55 @@
       "poster": "https://cdn.moviefone.com/admin-uploads/highlights/images/east-of-eden-season-1-official-poster_1778695739.webp",
       "artworkCredit": "Netflix official key art via Moviefone",
       "assessment": {
-        "case": "A literary adaptation can appeal through acting, writing, period production design, and the challenge of reinterpreting a familiar work.",
-        "caution": "Its limited-series prospects depend on execution, reviews, category eligibility, and competition.",
-        "verdict": "Anticipated project; awards assessment is preliminary."
+        "case": "Literary prestige, acting, and period craft.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
+      },
+      "synopsis": "A new adaptation of Steinbeck’s intergenerational family saga.",
+      "people": "Zoe Kazan; Florence Pugh"
+    },
+    {
+      "title": "Carrie",
+      "type": "tv",
+      "tier": "Limited series",
+      "status": "Excited to watch",
+      "reaction": "Really excited to watch.",
+      "poster": "https://imagenes.hobbyconsolas.com/files/image_640_auto/uploads/imagenes/2026/09/21/6ab1605404dce4-85022941.jpeg",
+      "artworkCredit": "Prime Video official series poster via Hobby Consolas",
+      "assessment": {
+        "case": "Flanagan’s horror pedigree and potential craft recognition.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
+      },
+      "synopsis": "A bullied teenager develops terrifying supernatural powers.",
+      "people": "Mike Flanagan"
+    },
+    {
+      "title": "The Altruists",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Limited series",
+      "synopsis": "The rise and collapse of cryptocurrency exchange FTX.",
+      "people": "Graham Moore; Julia Garner, Anthony Boyle",
+      "assessment": {
+        "case": "A timely scandal and high-profile performances.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Pride and Prejudice",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Limited series",
+      "synopsis": "Jane Austen’s class and romance satire returns to television.",
+      "people": "Dolly Alderton; Emma Corrin, Jack Lowden",
+      "assessment": {
+        "case": "Literary prestige and acting opportunities.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
       }
     },
     {
@@ -295,9 +594,95 @@
       "poster": "https://hermes.media.static.aol.com/media/2026/07/24/6a1cd0d7-7c78-35d6-858d-5d660c19f590/ee7a3b32-1f1f-4afa-bff1-38c3a95b29c9.jpg",
       "artworkCredit": "Prime Video official first-look photography via AOL",
       "assessment": {
-        "case": "A visually ambitious science-fiction series has a plausible technical route through cinematography, design, visual effects, and sound.",
-        "caution": "The franchise name and visual scale do not guarantee acclaim or a major-series nomination. Reception and Emmy eligibility remain unconfirmed.",
-        "verdict": "Personal anticipation is high; awards evidence is not yet established."
+        "case": "Strong potential in visual effects and production design.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
+      },
+      "synopsis": "A new mystery involving replicants in a futuristic Los Angeles.",
+      "people": "Silka Luisa; Michelle Yeoh, Hunter Schafer"
+    },
+    {
+      "title": "The Greatest",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "Limited series",
+      "synopsis": "A biographical drama exploring Muhammad Ali’s life.",
+      "people": "Ben Watkins; Jaalen Best",
+      "assessment": {
+        "case": "A compelling real-life subject with acting potential.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November Limited series field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Give Me Some Sugah",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "TV movie",
+      "synopsis": "A character-driven drama with a prominent acting ensemble.",
+      "people": "Tasha Smith; Taraji P. Henson, Aunjanue Ellis-Taylor",
+      "assessment": {
+        "case": "Speculative acting and TV Movie prospect.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November TV movie field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Way of the Warrior Kid",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "TV movie",
+      "synopsis": "A boy learns confidence and resilience through martial-arts discipline.",
+      "people": "McG; Chris Pratt, Jude Hill",
+      "assessment": {
+        "case": "Family-film prospect; category eligibility unconfirmed.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November TV movie field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "The Man with the Bag",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "TV movie",
+      "synopsis": "A holiday adventure about Santa and a missing bag.",
+      "people": "Adam Shankman; Arnold Schwarzenegger, Alan Ritchson",
+      "assessment": {
+        "case": "Star-driven seasonal possibility; eligibility unconfirmed.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November TV movie field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "A Dog’s Perfect Christmas",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "TV movie",
+      "synopsis": "A family Christmas story centered on a dog.",
+      "people": "Cathryn Michon; Dennis Quaid, Milo Ventimiglia",
+      "assessment": {
+        "case": "Eligibility watch only; no proven campaign.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November TV movie field; not a confirmed nomination."
+      }
+    },
+    {
+      "title": "Bad Day",
+      "type": "tv",
+      "status": "Not recorded",
+      "reaction": "",
+      "tier": "TV movie",
+      "synopsis": "A comedy about an increasingly disastrous day.",
+      "people": "Jake Szymanski; Cameron Diaz, Danielle Brooks",
+      "assessment": {
+        "case": "A speculative TV Movie entry with recognizable leads.",
+        "caution": "Next-season reviews, Emmy eligibility, and category competition remain relevant uncertainties.",
+        "verdict": "Tracked in the November TV movie field; not a confirmed nomination."
       }
     }
   ],
