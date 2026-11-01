@@ -7,7 +7,8 @@ A cinematic, static awards-season dashboard hosted on GitHub Pages, with publicl
 - Film awards tiers are **provisional editorial tracking labels**, not verified award nominations or probability forecasts.
 - The current roster is a curated starting set, not a claim of 15 Oscar and 24 Emmy contenders.
 - Dates are omitted until checked against Canadian distributors, exhibitors, or streaming platforms.
-- The poster-like gradients are **original abstract typographic artwork**, not official film or TV posters. The hero uses an externally hosted cinema photograph.
+- Poster and promotional images are now linked from public studio, distributor, and entertainment-media sources; source names and URLs are recorded in `data.json` and listed on `credits.html`. Abstract typographic artwork remains as a loading/error fallback. The hero uses an externally hosted cinema photograph.
+- Artwork can break if its origin stops serving the image. This first implementation does not use the TMDB API; **no API key is included in this repository or website**. TMDB image-path integration is a possible future improvement using a private GitHub Actions secret.
 - The owner's reactions are intentionally public; each visitor's watchlist checkboxes are local browser storage only.
 
 ## Deployment
