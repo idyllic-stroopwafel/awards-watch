@@ -1,0 +1,126 @@
+{
+  "updated": "2026-11-01",
+  "notice": "Release dates withheld pending Canadian-source verification; rankings are editorial, not live forecasts.",
+  "titles": [
+    {
+      "title": "The Odyssey",
+      "type": "movie",
+      "tier": "Frontrunner",
+      "status": "Watched",
+      "reaction": "Loved it; desperately want to watch again."
+    },
+    {
+      "title": "La Bola Negra",
+      "type": "movie",
+      "tier": "Frontrunner",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "Wild Horse Nine",
+      "type": "movie",
+      "tier": "Frontrunner",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "Project Hail Mary",
+      "type": "movie",
+      "tier": "Strong contender",
+      "status": "Watched",
+      "reaction": "Liked it; “nice”; would not choose to watch again."
+    },
+    {
+      "title": "The Invite",
+      "type": "movie",
+      "tier": "Strong contender",
+      "status": "Watched",
+      "reaction": "We really liked it."
+    },
+    {
+      "title": "Dune: Part Three",
+      "type": "movie",
+      "tier": "Strong contender",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "The Debut",
+      "type": "movie",
+      "tier": "Strong contender",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "Possible Love",
+      "type": "movie",
+      "tier": "Emerging",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "Fjord",
+      "type": "movie",
+      "tier": "Emerging",
+      "status": "Not recorded",
+      "reaction": ""
+    },
+    {
+      "title": "The Pitt",
+      "type": "tv",
+      "tier": "Drama",
+      "status": "Up to date",
+      "reaction": "An established favourite."
+    },
+    {
+      "title": "Pluribus",
+      "type": "tv",
+      "tier": "Drama",
+      "status": "Up to date",
+      "reaction": ""
+    },
+    {
+      "title": "Widow's Bay",
+      "type": "tv",
+      "tier": "Comedy",
+      "status": "Up to date",
+      "reaction": ""
+    },
+    {
+      "title": "The Studio",
+      "type": "tv",
+      "tier": "Comedy",
+      "status": "Favourite",
+      "reaction": "An established favourite."
+    },
+    {
+      "title": "The Rings of Power",
+      "type": "tv",
+      "tier": "Drama",
+      "status": "Excited to watch",
+      "reaction": "Really excited for the new season."
+    },
+    {
+      "title": "Carrie",
+      "type": "tv",
+      "tier": "Limited series",
+      "status": "Excited to watch",
+      "reaction": "Really excited to watch."
+    },
+    {
+      "title": "East of Eden",
+      "type": "tv",
+      "tier": "Limited series",
+      "status": "Excited to watch",
+      "reaction": "Really excited to watch."
+    },
+    {
+      "title": "Blade Runner 2099",
+      "type": "tv",
+      "tier": "Limited series",
+      "status": "Excited to watch",
+      "reaction": "Really excited to watch."
+    }
+  ],
+  "events": []
+}
