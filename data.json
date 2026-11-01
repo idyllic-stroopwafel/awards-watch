@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-01",
-  "notice": "Release dates withheld pending Canadian-source verification; rankings are editorial, not live forecasts.",
+  "notice": "Editorial awards assessments are provisional, not nominations or statistical forecasts. Personal enthusiasm is distinct from awards likelihood. Release dates withheld pending Canadian verification.",
   "titles": [
     {
       "title": "The Odyssey",
@@ -9,25 +9,40 @@
       "status": "Watched",
       "reaction": "Loved it; desperately want to watch again.",
       "poster": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/ca/onesheet.jpg",
-      "artworkCredit": "Universal Pictures Canada"
+      "artworkCredit": "Universal Pictures Canada",
+      "assessment": {
+        "case": "Christopher Nolan’s large-scale literary adaptation has the kind of directorial profile, technical ambition, and cultural visibility that can generate support across Academy branches.",
+        "caution": "Spectacle alone does not guarantee a screenplay or acting nomination; the final race depends on critical consensus and how strongly voters connect with the storytelling.",
+        "verdict": "High-profile contender; placement is an editorial judgment, not a measured probability."
+      }
     },
     {
       "title": "La Bola Negra",
       "type": "movie",
-      "tier": "Frontrunner",
+      "tier": "Emerging",
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://www.elseptimoarte.net/carteles/la_bola_negra_109489.jpg",
-      "artworkCredit": "Official Movistar Plus+ promotional art"
+      "artworkCredit": "Official Movistar Plus+ promotional art",
+      "assessment": {
+        "case": "Its literary and artistic pedigree makes it worth following on the international festival circuit, where strong reviews can turn an initially niche title into a critics’ favourite.",
+        "caution": "An international festival profile does not automatically translate into Best Picture traction. Distribution, campaign resources, and US awards visibility are key unknowns.",
+        "verdict": "Exploratory watch; the earlier frontrunner label was too confident."
+      }
     },
     {
       "title": "Wild Horse Nine",
       "type": "movie",
-      "tier": "Frontrunner",
+      "tier": "Emerging",
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://www.movieposters.com/cdn/shop/files/wild-horse-nine_fudqmzww_71c46d00-2453-468e-b571-3aff07d0c207.jpg?v=1776095331&width=1680",
-      "artworkCredit": "Theatrical key art via MoviePosters.com"
+      "artworkCredit": "Theatrical key art via MoviePosters.com",
+      "assessment": {
+        "case": "Martin McDonagh’s past awards success, dialogue-driven storytelling, and recognizable ensemble make this a natural film to monitor for writing and performances.",
+        "caution": "The film still needs critical momentum and an effective release campaign. Prior nominations for a director are not evidence of this film’s eventual reception.",
+        "verdict": "Potential above-the-line player, not a confirmed frontrunner."
+      }
     },
     {
       "title": "Project Hail Mary",
@@ -36,7 +51,12 @@
       "status": "Watched",
       "reaction": "Liked it; “nice”; would not choose to watch again.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc%40._V1_QL75_UX5530_.jpg",
-      "artworkCredit": "Official Amazon MGM promotional poster via IMDb"
+      "artworkCredit": "Official Amazon MGM promotional poster via IMDb",
+      "assessment": {
+        "case": "A high-profile science-fiction adaptation with broad audience appeal and substantial craft work could attract attention in visual effects, production design, sound, and other technical categories.",
+        "caution": "Genre appeal and technical achievement do not necessarily convert into Best Picture support. A screenplay and emotional-response consensus would matter.",
+        "verdict": "Craft prospects may be easier to justify than a top-tier Best Picture prediction."
+      }
     },
     {
       "title": "The Invite",
@@ -45,7 +65,12 @@
       "status": "Watched",
       "reaction": "We really liked it.",
       "poster": "https://fr.web.img5.acsta.net/img/f7/7f/f77f3586518f5a56fc0119bb32fc998a.jpg",
-      "artworkCredit": "Theatrical poster via AlloCiné"
+      "artworkCredit": "Theatrical poster via AlloCiné",
+      "assessment": {
+        "case": "An actor-led ensemble comedy can build support through performances, writing, and word of mouth, especially if critics champion its tonal precision.",
+        "caution": "Comedies face a tougher route into Best Picture without major critics’ prizes, festival buzz, or an unusually strong campaign.",
+        "verdict": "A personal favourite worth tracking; awards momentum is not established."
+      }
     },
     {
       "title": "Dune: Part Three",
@@ -54,16 +79,26 @@
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://mma.prnasia.com/media2/3004972/ADFC_4.jpg?p=publish",
-      "artworkCredit": "Warner Bros. / Legendary film key art"
+      "artworkCredit": "Warner Bros. / Legendary film key art",
+      "assessment": {
+        "case": "Denis Villeneuve’s franchise has an established record of Academy craft recognition. Scale, world-building, cinematography, sound, and visual effects make it a serious technical-category prospect.",
+        "caution": "Sequels can encounter diminishing enthusiasm, and Best Picture support depends on whether this chapter is seen as a satisfying film in its own right.",
+        "verdict": "Strong craft pedigree; overall placement remains provisional."
+      }
     },
     {
       "title": "The Debut",
       "type": "movie",
-      "tier": "Strong contender",
+      "tier": "Emerging",
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://media.the-numbers.com/images/movie-posters/Debut-The-%282026%29.jpg",
-      "artworkCredit": "Theatrical poster via The Numbers"
+      "artworkCredit": "Theatrical poster via The Numbers",
+      "assessment": {
+        "case": "A smaller film can break through when critics identify distinctive direction, writing, or a standout performance. It belongs on the discovery list while its reception develops.",
+        "caution": "There is not enough verified campaign or critics’ evidence here to defend a strong-contender ranking.",
+        "verdict": "Watchlist inclusion, not an evidence-backed Best Picture prediction."
+      }
     },
     {
       "title": "Possible Love",
@@ -72,7 +107,12 @@
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "artworkCredit": "Official release poster via IMDb"
+      "artworkCredit": "Official release poster via IMDb",
+      "assessment": {
+        "case": "An emerging international title is worth watching for festival reception and critics’ support, which can provide an early path into awards discussion.",
+        "caution": "A festival presence by itself is not proof of Academy traction; distributor support and wider exposure remain uncertain.",
+        "verdict": "Exploratory watch pending stronger evidence."
+      }
     },
     {
       "title": "Fjord",
@@ -81,7 +121,12 @@
       "status": "Not recorded",
       "reaction": "",
       "poster": "https://fr.web.img6.acsta.net/img/e4/d9/e4d9059cc46168a50327511a3b1d64d8.jpg",
-      "artworkCredit": "Festival / distributor promotional poster via AlloCiné"
+      "artworkCredit": "Festival / distributor promotional poster via AlloCiné",
+      "assessment": {
+        "case": "A filmmaker-driven drama can become relevant through reviews, festival recognition, and a distinctive directorial voice.",
+        "caution": "Its awards path is unclear without a substantiated reception and distribution picture.",
+        "verdict": "Exploratory watch pending stronger evidence."
+      }
     },
     {
       "title": "The Pitt",
@@ -90,7 +135,12 @@
       "status": "Up to date",
       "reaction": "An established favourite.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzIzM2YtYTkzMi00NTg1LTgxZDItMDVmN2NhMzUzZGMxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "artworkCredit": "Max Original official key art via IMDb"
+      "artworkCredit": "Max Original official key art via IMDb",
+      "assessment": {
+        "case": "Its real-time medical-drama format, ensemble work, and sustained tension give Emmy voters clear acting, writing, and drama-series elements to consider.",
+        "caution": "Competition from returning prestige dramas, plus the question of whether a later season sustains its impact, will shape the next race.",
+        "verdict": "Established personal favourite with credible drama-category appeal."
+      }
     },
     {
       "title": "Pluribus",
@@ -99,7 +149,12 @@
       "status": "Up to date",
       "reaction": "",
       "poster": "https://resizing.flixster.com/_Vs6ORv-EUJBMr-PfIAqL6EAm-A%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMmQ2MWQ4MGMtNzQyNi00NzY0LWE1NmQtMWU3ZmNjMzI3NmVjLnBuZw%3D%3D",
-      "artworkCredit": "Apple TV key art via Rotten Tomatoes"
+      "artworkCredit": "Apple TV key art via Rotten Tomatoes",
+      "assessment": {
+        "case": "Vince Gilligan’s creative reputation and the series’ ambitious premise create a plausible route through drama, writing, directing, and performance categories.",
+        "caution": "Genre storytelling can be divisive, and a creator’s past success cannot substitute for evidence about the eligible season.",
+        "verdict": "Worth monitoring closely; season-specific Emmy prospects require review."
+      }
     },
     {
       "title": "Widow's Bay",
@@ -108,7 +163,12 @@
       "status": "Up to date",
       "reaction": "",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/623/1559488.jpg",
-      "artworkCredit": "Apple TV promotional poster via TVmaze"
+      "artworkCredit": "Apple TV promotional poster via TVmaze",
+      "assessment": {
+        "case": "Its blend of comedy and unsettling genre elements gives it a potentially distinctive identity in a crowded comedy field.",
+        "caution": "Tone and category positioning may complicate an awards campaign; critical reception and eligibility need checking.",
+        "verdict": "Current watch, not a proven Emmy frontrunner."
+      }
     },
     {
       "title": "The Studio",
@@ -117,7 +177,12 @@
       "status": "Favourite",
       "reaction": "An established favourite.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "artworkCredit": "Apple TV official key art via IMDb"
+      "artworkCredit": "Apple TV official key art via IMDb",
+      "assessment": {
+        "case": "An entertainment-industry satire has natural appeal to television-industry voters, particularly through comedy writing, performances, and direction.",
+        "caution": "A strong first impression does not guarantee repeat wins; category competition and the quality of the eligible season matter.",
+        "verdict": "Personal favourite with a persuasive comedy-awards profile."
+      }
     },
     {
       "title": "The Rings of Power",
@@ -126,7 +191,12 @@
       "status": "Excited to watch",
       "reaction": "Really excited for the new season.",
       "poster": "https://www.impawards.com/tv/posters/lord_of_the_rings_the_rings_of_power_ver66_xxlg.jpg",
-      "artworkCredit": "Prime Video official series promotional poster via IMP Awards"
+      "artworkCredit": "Prime Video official series promotional poster via IMP Awards",
+      "assessment": {
+        "case": "The scale of its production gives it a credible technical-Emmy pathway through visual effects, production design, costumes, music, and sound.",
+        "caution": "Expensive production does not itself establish a Drama Series nomination case; broader critical consensus and season eligibility matter.",
+        "verdict": "Highly anticipated personally; stronger craft case than drama-series forecast."
+      }
     },
     {
       "title": "Carrie",
@@ -135,7 +205,12 @@
       "status": "Excited to watch",
       "reaction": "Really excited to watch.",
       "poster": "https://imagenes.hobbyconsolas.com/files/image_640_auto/uploads/imagenes/2026/09/21/6ab1605404dce4-85022941.jpeg",
-      "artworkCredit": "Prime Video official series poster via Hobby Consolas"
+      "artworkCredit": "Prime Video official series poster via Hobby Consolas",
+      "assessment": {
+        "case": "Mike Flanagan’s character-driven approach to horror could create opportunities for performances, writing, and limited-series craft recognition.",
+        "caution": "Horror faces historical awards headwinds, and an unreleased or unassessed season cannot be ranked on reception.",
+        "verdict": "Anticipated project, not yet a demonstrated Emmy contender."
+      }
     },
     {
       "title": "East of Eden",
@@ -144,7 +219,12 @@
       "status": "Excited to watch",
       "reaction": "Really excited to watch.",
       "poster": "https://cdn.moviefone.com/admin-uploads/highlights/images/east-of-eden-season-1-official-poster_1778695739.webp",
-      "artworkCredit": "Netflix official key art via Moviefone"
+      "artworkCredit": "Netflix official key art via Moviefone",
+      "assessment": {
+        "case": "A literary adaptation can appeal through acting, writing, period production design, and the challenge of reinterpreting a familiar work.",
+        "caution": "Its limited-series prospects depend on execution, reviews, category eligibility, and competition.",
+        "verdict": "Anticipated project; awards assessment is preliminary."
+      }
     },
     {
       "title": "Blade Runner 2099",
@@ -153,7 +233,12 @@
       "status": "Excited to watch",
       "reaction": "Really excited to watch.",
       "poster": "https://hermes.media.static.aol.com/media/2026/07/24/6a1cd0d7-7c78-35d6-858d-5d660c19f590/ee7a3b32-1f1f-4afa-bff1-38c3a95b29c9.jpg",
-      "artworkCredit": "Prime Video official first-look photography via AOL"
+      "artworkCredit": "Prime Video official first-look photography via AOL",
+      "assessment": {
+        "case": "A visually ambitious science-fiction series has a plausible technical route through cinematography, design, visual effects, and sound.",
+        "caution": "The franchise name and visual scale do not guarantee acclaim or a major-series nomination. Reception and Emmy eligibility remain unconfirmed.",
+        "verdict": "Personal anticipation is high; awards evidence is not yet established."
+      }
     }
   ],
   "events": []
