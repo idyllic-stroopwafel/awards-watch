@@ -7,119 +7,153 @@
       "type": "movie",
       "tier": "Frontrunner",
       "status": "Watched",
-      "reaction": "Loved it; desperately want to watch again."
+      "reaction": "Loved it; desperately want to watch again.",
+      "poster": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/ca/onesheet.jpg",
+      "artworkCredit": "Universal Pictures Canada"
     },
     {
       "title": "La Bola Negra",
       "type": "movie",
       "tier": "Frontrunner",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://www.elseptimoarte.net/carteles/la_bola_negra_109489.jpg",
+      "artworkCredit": "Official Movistar Plus+ promotional art"
     },
     {
       "title": "Wild Horse Nine",
       "type": "movie",
       "tier": "Frontrunner",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://www.movieposters.com/cdn/shop/files/wild-horse-nine_fudqmzww_71c46d00-2453-468e-b571-3aff07d0c207.jpg?v=1776095331&width=1680",
+      "artworkCredit": "Theatrical key art via MoviePosters.com"
     },
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "tier": "Strong contender",
       "status": "Watched",
-      "reaction": "Liked it; “nice”; would not choose to watch again."
+      "reaction": "Liked it; “nice”; would not choose to watch again.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc%40._V1_QL75_UX5530_.jpg",
+      "artworkCredit": "Official Amazon MGM promotional poster via IMDb"
     },
     {
       "title": "The Invite",
       "type": "movie",
       "tier": "Strong contender",
       "status": "Watched",
-      "reaction": "We really liked it."
+      "reaction": "We really liked it.",
+      "poster": "https://fr.web.img5.acsta.net/img/f7/7f/f77f3586518f5a56fc0119bb32fc998a.jpg",
+      "artworkCredit": "Theatrical poster via AlloCiné"
     },
     {
       "title": "Dune: Part Three",
       "type": "movie",
       "tier": "Strong contender",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://mma.prnasia.com/media2/3004972/ADFC_4.jpg?p=publish",
+      "artworkCredit": "Warner Bros. / Legendary film key art"
     },
     {
       "title": "The Debut",
       "type": "movie",
       "tier": "Strong contender",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://media.the-numbers.com/images/movie-posters/Debut-The-%282026%29.jpg",
+      "artworkCredit": "Theatrical poster via The Numbers"
     },
     {
       "title": "Possible Love",
       "type": "movie",
       "tier": "Emerging",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "artworkCredit": "Official release poster via IMDb"
     },
     {
       "title": "Fjord",
       "type": "movie",
       "tier": "Emerging",
       "status": "Not recorded",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://fr.web.img6.acsta.net/img/e4/d9/e4d9059cc46168a50327511a3b1d64d8.jpg",
+      "artworkCredit": "Festival / distributor promotional poster via AlloCiné"
     },
     {
       "title": "The Pitt",
       "type": "tv",
       "tier": "Drama",
       "status": "Up to date",
-      "reaction": "An established favourite."
+      "reaction": "An established favourite.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzIzM2YtYTkzMi00NTg1LTgxZDItMDVmN2NhMzUzZGMxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "artworkCredit": "Max Original official key art via IMDb"
     },
     {
       "title": "Pluribus",
       "type": "tv",
       "tier": "Drama",
       "status": "Up to date",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://resizing.flixster.com/_Vs6ORv-EUJBMr-PfIAqL6EAm-A%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMmQ2MWQ4MGMtNzQyNi00NzY0LWE1NmQtMWU3ZmNjMzI3NmVjLnBuZw%3D%3D",
+      "artworkCredit": "Apple TV key art via Rotten Tomatoes"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "tier": "Comedy",
       "status": "Up to date",
-      "reaction": ""
+      "reaction": "",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/623/1559488.jpg",
+      "artworkCredit": "Apple TV promotional poster via TVmaze"
     },
     {
       "title": "The Studio",
       "type": "tv",
       "tier": "Comedy",
       "status": "Favourite",
-      "reaction": "An established favourite."
+      "reaction": "An established favourite.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "artworkCredit": "Apple TV official key art via IMDb"
     },
     {
       "title": "The Rings of Power",
       "type": "tv",
       "tier": "Drama",
       "status": "Excited to watch",
-      "reaction": "Really excited for the new season."
+      "reaction": "Really excited for the new season.",
+      "poster": "https://www.impawards.com/tv/posters/lord_of_the_rings_the_rings_of_power_ver66_xxlg.jpg",
+      "artworkCredit": "Prime Video official series promotional poster via IMP Awards"
     },
     {
       "title": "Carrie",
       "type": "tv",
       "tier": "Limited series",
       "status": "Excited to watch",
-      "reaction": "Really excited to watch."
+      "reaction": "Really excited to watch.",
+      "poster": "https://imagenes.hobbyconsolas.com/files/image_640_auto/uploads/imagenes/2026/09/21/6ab1605404dce4-85022941.jpeg",
+      "artworkCredit": "Prime Video official series poster via Hobby Consolas"
     },
     {
       "title": "East of Eden",
       "type": "tv",
       "tier": "Limited series",
       "status": "Excited to watch",
-      "reaction": "Really excited to watch."
+      "reaction": "Really excited to watch.",
+      "poster": "https://cdn.moviefone.com/admin-uploads/highlights/images/east-of-eden-season-1-official-poster_1778695739.webp",
+      "artworkCredit": "Netflix official key art via Moviefone"
     },
     {
       "title": "Blade Runner 2099",
       "type": "tv",
       "tier": "Limited series",
       "status": "Excited to watch",
-      "reaction": "Really excited to watch."
+      "reaction": "Really excited to watch.",
+      "poster": "https://hermes.media.static.aol.com/media/2026/07/24/6a1cd0d7-7c78-35d6-858d-5d660c19f590/ee7a3b32-1f1f-4afa-bff1-38c3a95b29c9.jpg",
+      "artworkCredit": "Prime Video official first-look photography via AOL"
     }
   ],
   "events": []
