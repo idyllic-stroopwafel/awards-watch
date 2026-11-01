@@ -206,7 +206,17 @@
           "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-10-26/2027-oscar-predictions-best-picture"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "mood": "either",
+      "availability": {
+        "region": "CA",
+        "service": "PVOD rental",
+        "access": "rental",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/movie/the-invite-2026",
+        "note": "An intimate, awkward dinner-party comedy; paid digital rental.",
+        "score": 88
+      }
     },
     {
       "title": "All of a Sudden",
@@ -474,7 +484,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Netflix",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/the-diplomat",
+        "note": "A high-stakes political drama with Keri Russell.",
+        "score": 92
+      }
     },
     {
       "title": "The Gilded Age",
@@ -491,7 +511,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Crave",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/the-gilded-age",
+        "note": "Gorgeous period drama about class and ambition in 1880s New York.",
+        "score": 83
+      }
     },
     {
       "title": "War",
@@ -525,7 +555,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Netflix",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/black-doves",
+        "note": "A stylish London espionage thriller; season one available.",
+        "score": 86
+      }
     },
     {
       "title": "The Rings of Power",
@@ -631,7 +671,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/ted-lasso",
+        "note": "Optimistic football comedy with big-hearted character arcs.",
+        "score": 91
+      }
     },
     {
       "title": "Youth",
@@ -665,7 +715,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Netflix",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/nobody-wants-this",
+        "note": "A warm, witty romance between a podcaster and a rabbi.",
+        "score": 89
+      }
     },
     {
       "title": "Only Murders in the Building",
@@ -682,7 +742,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Disney+",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/only-murders-in-the-building",
+        "note": "A playful murder mystery with Steve Martin, Martin Short, and Selena Gomez.",
+        "score": 90
+      }
     },
     {
       "title": "Stick",
@@ -699,7 +769,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Apple TV+",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/stick",
+        "note": "Owen Wilson's easygoing golf comedy.",
+        "score": 82
+      }
     },
     {
       "title": "St. Denis Medical",
@@ -716,7 +796,17 @@
       },
       "buzzSources": [],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "mood": "light",
+      "availability": {
+        "region": "CA",
+        "service": "Crave",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/st-denis-medical",
+        "note": "Fast-paced workplace comedy in an underfunded hospital.",
+        "score": 80
+      }
     },
     {
       "title": "Widow's Bay",
@@ -1204,6 +1294,6 @@
   ],
   "events": [],
   "availabilityUpdated": "2026-11-01",
-  "availabilityPolicy": "A curated snapshot verified against Canadian JustWatch listings, not a real-time streaming API. Recheck provider availability before watching; exclude entries older than seven days.",
+  "availabilityPolicy": "Source-linked Canadian listings reviewed November 1, 2026. The provider page may have an older underlying last-checked timestamp. Listings are snapshots, not real-time API responses, and expire after seven days.",
   "editorialMethod": "Ranks are a curated synthesis, not an aggregate forecast. Source links describe broader races and may not discuss every listed work. No artwork or streaming provider is inferred without a source."
 }
