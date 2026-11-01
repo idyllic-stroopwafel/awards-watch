@@ -883,7 +883,17 @@
       "synopsis": "A bullied teenager develops terrifying supernatural powers.",
       "people": "Mike Flanagan",
       "buzzSources": [],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "mood": "serious",
+      "availability": {
+        "region": "CA",
+        "service": "Prime Video",
+        "access": "subscription",
+        "checked": "2026-11-01",
+        "source": "https://www.justwatch.com/ca/tv-show/carrie/season-1",
+        "note": "Mike Flanagan's eight-part horror adaptation; season one available.",
+        "score": 87
+      }
     },
     {
       "title": "The Altruists",
