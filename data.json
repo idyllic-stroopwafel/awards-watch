@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "notice": "Expanded from the November 1, 2026 Monthly Awards Watch: editorial predictions, not nominations. Only separately sourced Canadian availability may be used by Watch Tonight.",
   "titles": [
     {
@@ -1411,7 +1411,72 @@
       "poster": null
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "date": "2026-11-06",
+      "title": "Wild Horse Nine",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Being Heumann",
+      "kind": "Theatrical (limited)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Club Kid",
+      "kind": "Theatrical (limited)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "I Play Rocky",
+      "kind": "Theatrical (limited)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Elsinore",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Josephine",
+      "kind": "Theatrical",
+      "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Behemoth!",
+      "kind": "Theatrical",
+      "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Dune: Part Three",
+      "kind": "Theatrical",
+      "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
+      "region": "CA",
+      "checked": "2026-11-03"
+    }
+  ],
   "availabilityUpdated": "2026-11-02",
   "availabilityPolicy": "Source-linked Canadian listings reviewed November 1, 2026. The provider page may have an older underlying last-checked timestamp. Listings are snapshots, not real-time API responses, and expire after seven days.",
   "editorialMethod": "Ranks are a curated synthesis, not an aggregate forecast. Source links describe broader races and may not discuss every listed work. No artwork or streaming provider is inferred without a source."
