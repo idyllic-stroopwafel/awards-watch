@@ -34,7 +34,18 @@
         "rewatch": "Absolutely",
         "opinion": "Both",
         "recommendation": "Enthusiastically recommend"
-      }
+      },
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Canadian theatres",
+          "access": "theatres",
+          "checked": "2026-11-02",
+          "source": "https://www.tribute.ca/showtimes/postalcode/m3h-0c3/the-odyssey/184810/",
+          "note": "Currently screening in Ontario cinemas, including Toronto.",
+          "score": 96
+        }
+      ]
     },
     {
       "title": "La Bola Negra",
@@ -316,7 +327,18 @@
         }
       ],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Canadian theatres",
+          "access": "theatres",
+          "checked": "2026-11-02",
+          "source": "https://www.tribute.ca/showtimes/movie/mississauga/you-can-see-everything/200666/",
+          "note": "Currently screening at Canadian cinemas, including the Greater Toronto Area.",
+          "score": 87
+        }
+      ]
     },
     {
       "title": "Artificial",
@@ -398,7 +420,18 @@
           "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-10-26/2027-oscar-predictions-best-picture"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Canadian theatres",
+          "access": "theatres",
+          "checked": "2026-11-02",
+          "source": "https://www.tribute.ca/showtimes/movie/postalcode/l4l/fjord/199113/",
+          "note": "Currently screening at Canadian cinemas, including Toronto.",
+          "score": 85
+        }
+      ]
     },
     {
       "title": "I Play Rocky",
@@ -1182,7 +1215,18 @@
         }
       ],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null
+      "poster": null,
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Canadian theatres",
+          "access": "theatres",
+          "checked": "2026-11-02",
+          "source": "https://www.tribute.ca/showtimes/movie/mississauga/sense-and-sensibility/194006/",
+          "note": "Currently screening at Canadian cinemas, including the Greater Toronto Area.",
+          "score": 84
+        }
+      ]
     },
     {
       "title": "Behemoth!",
@@ -1368,7 +1412,7 @@
     }
   ],
   "events": [],
-  "availabilityUpdated": "2026-11-01",
+  "availabilityUpdated": "2026-11-02",
   "availabilityPolicy": "Source-linked Canadian listings reviewed November 1, 2026. The provider page may have an older underlying last-checked timestamp. Listings are snapshots, not real-time API responses, and expire after seven days.",
   "editorialMethod": "Ranks are a curated synthesis, not an aggregate forecast. Source links describe broader races and may not discuss every listed work. No artwork or streaming provider is inferred without a source."
 }
