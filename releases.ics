@@ -3,5 +3,121 @@ VERSION:2.0
 PRODID:-//The Awards Watch//Canadian Releases//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Awards Watch - Canadian Releases
+X-WR-CALNAME:The Awards Watch - Canadian Releases
+X-WR-CALDESC:Verified upcoming Canadian release dates for Awards Watch ti
+ tles
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:2026-11-06-wild-horse-nine@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wild Horse Nine — Theatrical (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-being-heumann@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Being Heumann — Theatrical (limited) (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-club-kid@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Club Kid — Theatrical (limited) (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-i-play-rocky@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:I Play Rocky — Theatrical (limited) (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-elsinore@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Elsinore — Theatrical (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-josephine@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Josephine — Theatrical (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://www.thepopverse.com/upcoming-movie
+ s-new-in-theaters-this-month-coming-soon
+URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-mont
+ h-coming-soon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-behemoth-@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Behemoth! — Theatrical (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://www.thepopverse.com/upcoming-movie
+ s-new-in-theaters-this-month-coming-soon
+URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-mont
+ h-coming-soon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-dune-part-three@awards-watch
+DTSTAMP:20261103T140000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Dune: Part Three — Theatrical (Canada)
+DESCRIPTION:Canadian release date. Dates and distribution can change\; ve
+ rify before planning. Source: https://www.thepopverse.com/upcoming-movie
+ s-new-in-theaters-this-month-coming-soon
+URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-mont
+ h-coming-soon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
