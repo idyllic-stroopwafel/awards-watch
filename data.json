@@ -7,7 +7,7 @@
       "type": "movie",
       "tier": "Frontrunner",
       "status": "Watched",
-      "reaction": "Loved it; desperately want to watch again.",
+      "reaction": "As we exited the theatre, Hil said, “I think that is the best movie I’ve seen in years.”",
       "poster": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-odyssey/images/regions/ca/onesheet.jpg",
       "artworkCredit": "Universal Pictures Canada",
       "assessment": {
@@ -28,7 +28,13 @@
           "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-10-26/2027-oscar-predictions-best-picture"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personal": {
+        "verdict": "Loved it",
+        "rewatch": "Absolutely",
+        "opinion": "Both",
+        "recommendation": "Enthusiastically recommend"
+      }
     },
     {
       "title": "La Bola Negra",
