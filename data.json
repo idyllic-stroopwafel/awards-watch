@@ -1420,7 +1420,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-04",
@@ -1430,7 +1432,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-05",
@@ -1440,7 +1444,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-06",
@@ -1448,7 +1454,10 @@
       "kind": "Theatrical (limited)",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-11-06",
@@ -1456,7 +1465,10 @@
       "kind": "Theatrical",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-11-11",
@@ -1466,7 +1478,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-13",
@@ -1474,7 +1488,10 @@
       "kind": "Theatrical (limited)",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-11-13",
@@ -1482,7 +1499,10 @@
       "kind": "Theatrical (limited)",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-11-19",
@@ -1492,7 +1512,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-20",
@@ -1500,7 +1522,10 @@
       "kind": "Theatrical",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-11-20",
@@ -1509,7 +1534,9 @@
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
       "certainty": "reported",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars"
     },
     {
       "date": "2026-11-25",
@@ -1519,7 +1546,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-11-27",
@@ -1528,7 +1557,9 @@
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
       "certainty": "reported",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars"
     },
     {
       "date": "2026-12-03",
@@ -1538,7 +1569,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-12-04",
@@ -1546,7 +1579,10 @@
       "kind": "Theatrical",
       "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars",
+      "certainty": "reported"
     },
     {
       "date": "2026-12-08",
@@ -1556,7 +1592,9 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "emmys-continuous",
+      "editorialPriority": "television"
     },
     {
       "date": "2026-12-18",
@@ -1566,7 +1604,9 @@
       "source": "https://filmgrail.com/releases/canada/",
       "certainty": "confirmed",
       "region": "CA",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars"
     },
     {
       "date": "2026-12-18",
@@ -1576,163 +1616,41 @@
       "source": "https://filmgrail.com/releases/canada/",
       "certainty": "confirmed",
       "region": "CA",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2026-12-25",
-      "title": "Werwulf",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-08",
-      "title": "La Gradiva",
-      "kind": "Theatrical (Canadian distributor listing)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-15",
-      "title": "Bunker",
-      "kind": "Theatrical (Canadian distributor listing)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-15",
-      "title": "Children of Blood and Bone",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-15",
-      "title": "The Beekeeper 2",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-22",
-      "title": "A Long Winter",
-      "kind": "Theatrical (Canadian distributor listing)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-01-29",
-      "title": "Witch on the Holy Night",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-02-05",
-      "title": "Remain",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-02-12",
-      "title": "Narnia: The Magician's Nephew",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-02-12",
-      "title": "Wishful Thinking",
-      "kind": "Theatrical (Canadian distributor listing)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-02-19",
-      "title": "Everytime",
-      "kind": "Theatrical (Canadian distributor listing)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-02-19",
-      "title": "Wife & Dog",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-03-05",
-      "title": "Gatto",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-03-05",
-      "title": "The Thomas Crown Affair",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-03-26",
-      "title": "Godzilla x Kong: Supernova",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-04-16",
-      "title": "Not Alone",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2027-04-23",
-      "title": "Spaceballs: The New One",
-      "kind": "Theatrical",
-      "source": "https://www.imdb.com/calendar?region=CA",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03"
+      "checked": "2026-11-03",
+      "editorialTrack": "oscars-current",
+      "editorialPriority": "current-oscars"
     }
   ],
   "availabilityUpdated": "2026-11-02",
   "availabilityPolicy": "Source-linked Canadian listings reviewed November 1, 2026. The provider page may have an older underlying last-checked timestamp. Listings are snapshots, not real-time API responses, and expire after seven days.",
-  "editorialMethod": "Ranks are a curated synthesis, not an aggregate forecast. Source links describe broader races and may not discuss every listed work. No artwork or streaming provider is inferred without a source."
+  "editorialMethod": "Ranks are a curated synthesis, not an aggregate forecast. Source links describe broader races and may not discuss every listed work. No artwork or streaming provider is inferred without a source.",
+  "editorialCycle": {
+    "rule": "Keep current Oscars in focus until the ceremony; open next year's Oscar race only after it. Track Emmys continuously with rising emphasis through eligibility, nominations and ceremony.",
+    "phases": [
+      {
+        "id": "oscars-peak",
+        "label": "Oscars in focus",
+        "approx": "November–Oscar ceremony",
+        "film": "Current Oscar race only",
+        "tv": "Continuous early Emmy conversation"
+      },
+      {
+        "id": "handover",
+        "label": "The handover",
+        "approx": "After Oscars–May",
+        "film": "Begin next Oscar race cautiously",
+        "tv": "Emmys gaining momentum"
+      },
+      {
+        "id": "emmys-peak",
+        "label": "Emmys in focus",
+        "approx": "June–Emmy ceremony",
+        "film": "Develop Oscar outlook through festivals",
+        "tv": "Peak Emmy conversation"
+      }
+    ],
+    "active": "oscars-peak",
+    "nextOscarRaceOpens": "after-2027-oscars-ceremony",
+    "horizonMonths": 6
+  }
 }
