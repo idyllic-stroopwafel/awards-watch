@@ -97,7 +97,7 @@
       "type": "movie",
       "tier": "Strong contender",
       "status": "Watched",
-      "reaction": "Liked it; “nice”; would not choose to watch again.",
+      "reaction": "A nice enough movie if you want a lighthearted watch about a lonely nerd making a friend in space. Good production value.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc%40._V1_QL75_UX5530_.jpg",
       "artworkCredit": "Official Amazon MGM promotional poster via IMDb",
       "assessment": {
@@ -128,7 +128,13 @@
           "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-10-26/2027-oscar-predictions-best-picture"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personal": {
+        "verdict": "Liked it",
+        "rewatch": "Probably not",
+        "opinion": "Peter",
+        "recommendation": "Not necessarily"
+      }
     },
     {
       "title": "The Debut",
@@ -191,7 +197,7 @@
       "type": "movie",
       "tier": "Strong contender",
       "status": "Watched",
-      "reaction": "We really liked it.",
+      "reaction": "A stressful and awkward watch with fantastic performances. The tiny cast and beautiful set allow for an intimate exploration of relationships.",
       "poster": "https://fr.web.img5.acsta.net/img/f7/7f/f77f3586518f5a56fc0119bb32fc998a.jpg",
       "artworkCredit": "Theatrical poster via AlloCiné",
       "assessment": {
@@ -222,6 +228,12 @@
         "source": "https://www.justwatch.com/ca/movie/the-invite-2026",
         "note": "An intimate, awkward dinner-party comedy; paid digital rental.",
         "score": 88
+      },
+      "personal": {
+        "verdict": "Loved it",
+        "rewatch": "Probably",
+        "opinion": "Both",
+        "recommendation": "Recommend"
       }
     },
     {
@@ -762,8 +774,8 @@
     {
       "title": "Only Murders in the Building",
       "type": "tv",
-      "status": "Not recorded",
-      "reaction": "",
+      "status": "Watched",
+      "reaction": "A cozy and fun mystery with a fantastic cast and lovable characters. Once you watch, you understand why so many talented actors want to be involved.",
       "tier": "Comedy",
       "synopsis": "Three neighbours investigate murders while producing a podcast.",
       "people": "Steve Martin and John Hoffman; Steve Martin, Martin Short, Selena Gomez",
@@ -785,7 +797,13 @@
         "note": "A playful murder mystery with Steve Martin, Martin Short, and Selena Gomez.",
         "score": 90
       },
-      "artworkCredit": "Hulu / Disney promotional key art via TVmaze"
+      "artworkCredit": "Hulu / Disney promotional key art via TVmaze",
+      "personal": {
+        "verdict": "Love it",
+        "rewatch": "Absolutely",
+        "opinion": "Both",
+        "recommendation": "Enthusiastically recommend"
+      }
     },
     {
       "title": "Stick",
