@@ -24,3 +24,5 @@
 .catalogue-synopsis{font-size:12px;line-height:1.55;color:#ddd5d2;margin:9px 0 5px}.catalogue-people{font-size:11px;line-height:1.5;color:#aba3ac;margin:4px 0 12px}.catalogue-people b{color:#d9b184;font-weight:650}
 
 .buzz-links{border-top:1px solid #423b43;padding-top:10px}.buzz-links a{color:#d8ad79;text-decoration:underline;text-underline-offset:3px;line-height:1.9}
+
+.personal-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 16px;margin:12px 0}.personal-fields p{margin:0;font-size:12px;line-height:1.5}.personal-fields b{display:block;font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:#cba879;margin-bottom:2px}.personal-take{font-size:13px;line-height:1.6;margin:12px 0 0}.personal-take b{display:block;font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:#cba879;margin-bottom:4px}
