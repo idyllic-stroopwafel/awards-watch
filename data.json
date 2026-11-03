@@ -1504,10 +1504,11 @@
     },
     {
       "date": "2026-11-20",
-      "title": "Josephine",
-      "kind": "Theatrical",
-      "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
+      "title": "Paper Tiger",
+      "kind": "Theatrical (TIFF Lightbox)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
+      "certainty": "reported",
       "checked": "2026-11-03"
     },
     {
@@ -1518,6 +1519,15 @@
       "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
       "certainty": "reported",
       "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Josephine",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
       "checked": "2026-11-03"
     },
     {
@@ -1551,14 +1561,6 @@
     {
       "date": "2026-12-18",
       "title": "Dune: Part Three",
-      "kind": "Theatrical",
-      "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
-      "region": "CA",
-      "checked": "2026-11-03"
-    },
-    {
-      "date": "2026-12-18",
-      "title": "Dune: Part Three",
       "kind": "Theatrical release",
       "platform": "Canadian cinemas",
       "source": "https://filmgrail.com/releases/canada/",
@@ -1578,12 +1580,155 @@
     },
     {
       "date": "2026-12-25",
-      "title": "Artificial",
-      "kind": "Theatrical release (North America; Canada to verify)",
-      "platform": "Canadian booking to verify",
-      "source": "https://www.the-numbers.com/movies/release-schedule/2026",
+      "title": "Werwulf",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
       "certainty": "reported",
-      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-08",
+      "title": "La Gradiva",
+      "kind": "Theatrical (Canadian distributor listing)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Bunker",
+      "kind": "Theatrical (Canadian distributor listing)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Children of Blood and Bone",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "The Beekeeper 2",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-22",
+      "title": "A Long Winter",
+      "kind": "Theatrical (Canadian distributor listing)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-01-29",
+      "title": "Witch on the Holy Night",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-02-05",
+      "title": "Remain",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-02-12",
+      "title": "Narnia: The Magician's Nephew",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-02-12",
+      "title": "Wishful Thinking",
+      "kind": "Theatrical (Canadian distributor listing)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-02-19",
+      "title": "Everytime",
+      "kind": "Theatrical (Canadian distributor listing)",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-02-19",
+      "title": "Wife & Dog",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-03-05",
+      "title": "Gatto",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-03-05",
+      "title": "The Thomas Crown Affair",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-03-26",
+      "title": "Godzilla x Kong: Supernova",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-04-16",
+      "title": "Not Alone",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2027-04-23",
+      "title": "Spaceballs: The New One",
+      "kind": "Theatrical",
+      "source": "https://www.imdb.com/calendar?region=CA",
+      "region": "CA",
+      "certainty": "reported",
       "checked": "2026-11-03"
     }
   ],
