@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//The Awards Watch//Canadian Releases//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:The Awards Watch - Release Outlook
-X-WR-CALDESC:Canadian release outlook; tentative dates identified in e
- vent notes
+X-WR-CALNAME:The Awards Watch - Oscars and Emmys
+X-WR-CALDESC:Current Oscar contenders and ongoing Emmy series; six-m
+ onth rolling horizon
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 UID:2026-11-04-stick-tv-season-2-premiere@awards-watch
@@ -13,11 +13,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Stick — TV season 2 premiere · Apple TV
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Apple TV. Source: https://editorial.r
- ottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Apple TV. Source: http
+ s://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -27,11 +27,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:The Greatest — TV season premiere · Prime Video
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Prime Video. Source: https://editoria
- l.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Prime Video. Source: h
+ ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -41,11 +41,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Black Doves — TV season 2 premiere · Netflix
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Netflix. Source: https://editorial.ro
- ttentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Netflix. Source: https
+ ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -55,11 +55,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Being Heumann — Theatrical (limited)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -69,11 +69,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wild Horse Nine — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -83,11 +83,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:The Rings of Power — TV season 3 premiere · Prime Video
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Prime Video. Source: https://editoria
- l.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Prime Video. Source: h
+ ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -97,11 +97,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Club Kid — Theatrical (limited)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -111,11 +111,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:I Play Rocky — Theatrical (limited)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -125,11 +125,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:The Altruists — TV series premiere · Netflix
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Netflix. Source: https://editorial.ro
- ttentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Netflix. Source: https
+ ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -139,11 +139,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Elsinore — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -153,11 +153,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — Theatrical (TIFF Lightbox)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -167,11 +167,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Blade Runner 2099 — TV series premiere · Prime Video
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Prime Video. Source: https://editoria
- l.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Prime Video. Source: h
+ ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -181,11 +181,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Josephine — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://letterboxd.com/torontoplex/list/to
+ ronto-release-calendar/detail/
+URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
+ /detail/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -195,11 +195,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pride and Prejudice — TV series premiere · Netflix
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Netflix. Source: https://editorial.ro
- ttentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Netflix. Source: https
+ ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -209,27 +209,28 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.thepopverse.com/upcoming-mo
- vies-new-in-theaters-this-month-coming-soon
-URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-m
- onth-coming-soon
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Source: https://www.thepopverse.com/upcoming-movie
+ s-new-in-theaters-this-month-coming-soon
+URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this
+ -month-coming-soon
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-08-only-murders-in-the-building-tv-season-6-premiere@award
- s-watch
+UID:2026-12-08-only-murders-in-the-building-tv-season-6-premiere@awa
+ rds-watch
 DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:Only Murders in the Building — TV season 6 premiere · Canadian
-  platform to verify
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Platform: Canadian platform to verify. Source: 
- https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-202
- 6
+SUMMARY:Only Murders in the Building — TV season 6 premiere · Canadi
+ an platform to verify
+DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
+  date\; verify local availability. Platform: Canadian platform to v
+ erify. Source: https://editorial.rottentomatoes.com/article/tv-prem
+ iere-dates-2026
+URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
+ 026
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -239,8 +240,9 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — Theatrical release · Canadian cinemas
-DESCRIPTION:Confirmed Canadian listing\; dates may change. Platform: C
- anadian cinemas. Source: https://filmgrail.com/releases/canada/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Platform: Canadian cinemas. Source: https://filmgr
+ ail.com/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -251,237 +253,11 @@ DTSTAMP:20261103T150000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The Debut — Canadian theatrical release · Canadian cinemas
-DESCRIPTION:Confirmed Canadian listing\; dates may change. Platform: C
- anadian cinemas. Source: https://filmgrail.com/releases/canada/
+DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
+ al availability. Platform: Canadian cinemas. Source: https://filmgr
+ ail.com/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-25-werwulf-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Werwulf — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-08-la-gradiva-theatrical-canadian-distributor-listing-@awa
- rds-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:La Gradiva — Theatrical (Canadian distributor listing)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-15-bunker-theatrical-canadian-distributor-listing-@awards-
- watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:Bunker — Theatrical (Canadian distributor listing)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-15-children-of-blood-and-bone-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:Children of Blood and Bone — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-15-the-beekeeper-2-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:The Beekeeper 2 — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-22-a-long-winter-theatrical-canadian-distributor-listing-@
- awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-SUMMARY:A Long Winter — Theatrical (Canadian distributor listing)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-29-witch-on-the-holy-night-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270130
-SUMMARY:Witch on the Holy Night — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-05-remain-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
-SUMMARY:Remain — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-12-narnia-the-magician-s-nephew-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:Narnia: The Magician's Nephew — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-12-wishful-thinking-theatrical-canadian-distributor-listin
- g-@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:Wishful Thinking — Theatrical (Canadian distributor listing)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-19-everytime-theatrical-canadian-distributor-listing-@awar
- ds-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270219
-DTEND;VALUE=DATE:20270220
-SUMMARY:Everytime — Theatrical (Canadian distributor listing)
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-02-19-wife-dog-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270219
-DTEND;VALUE=DATE:20270220
-SUMMARY:Wife & Dog — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-05-gatto-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-SUMMARY:Gatto — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-05-the-thomas-crown-affair-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-SUMMARY:The Thomas Crown Affair — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://letterboxd.com/torontoplex/list
- /toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar/d
- etail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-26-godzilla-x-kong-supernova-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-SUMMARY:Godzilla x Kong: Supernova — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-16-not-alone-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:Not Alone — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-23-spaceballs-the-new-one-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
-SUMMARY:Spaceballs: The New One — Theatrical
-DESCRIPTION:Published or reported date\; Canadian screening/platform s
- hould be reconfirmed. Source: https://www.imdb.com/calendar?region=CA
-URL:https://www.imdb.com/calendar?region=CA
-STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
