@@ -440,8 +440,8 @@
       "title": "The Pitt",
       "type": "tv",
       "tier": "Drama",
-      "status": "Up to date",
-      "reaction": "An established favourite.",
+      "status": "Favourite",
+      "reaction": "Personal, human stories told in a high-pressure, high-tempo, high-stakes environment. Timely subjects, a lovable cast, and terrific performances. A thoroughly deserved winner.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYzIzM2YtYTkzMi00NTg1LTgxZDItMDVmN2NhMzUzZGMxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
       "artworkCredit": "Max Original official key art via IMDb",
       "assessment": {
@@ -467,7 +467,8 @@
           "url": "https://apnews.com/article/5d9b89c9c548665b4c9d1345976286ae"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personalVerdict": "Deserved winner"
     },
     {
       "title": "The Diplomat",
@@ -636,7 +637,7 @@
       "type": "tv",
       "tier": "Comedy",
       "status": "Favourite",
-      "reaction": "An established favourite.",
+      "reaction": "Hectic, stressful fun, full of outrageous characters and celebrity cameos. It nods to important subjects without dwelling on them or becoming patronizing, never losing sight of the comedy. One of those shows you have to see to understand.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDA4MWUyNDYtODNjYi00NjE4LTk0ZTMtZmMzZTU5MzkzMTBlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
       "artworkCredit": "Apple TV official key art via IMDb",
       "assessment": {
@@ -657,7 +658,8 @@
       "synopsis": "A Hollywood executive struggles to make films in a chaotic industry.",
       "people": "Seth Rogen and Evan Goldberg; Seth Rogen, Catherine O’Hara",
       "buzzSources": [],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personalVerdict": "Must-see"
     },
     {
       "title": "Ted Lasso",
