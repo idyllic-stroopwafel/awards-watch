@@ -1413,11 +1413,33 @@
   ],
   "events": [
     {
-      "date": "2026-11-06",
-      "title": "Wild Horse Nine",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
+      "date": "2026-11-04",
+      "title": "Stick",
+      "kind": "TV season 2 premiere",
+      "platform": "Apple TV",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "The Greatest",
+      "kind": "TV season premiere",
+      "platform": "Prime Video",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Black Doves",
+      "kind": "TV season 2 premiere",
+      "platform": "Netflix",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
       "checked": "2026-11-03"
     },
     {
@@ -1426,6 +1448,24 @@
       "kind": "Theatrical (limited)",
       "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
       "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Wild Horse Nine",
+      "kind": "Theatrical",
+      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "The Rings of Power",
+      "kind": "TV season 3 premiere",
+      "platform": "Prime Video",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
       "checked": "2026-11-03"
     },
     {
@@ -1445,6 +1485,16 @@
       "checked": "2026-11-03"
     },
     {
+      "date": "2026-11-19",
+      "title": "The Altruists",
+      "kind": "TV series premiere",
+      "platform": "Netflix",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
       "date": "2026-11-20",
       "title": "Elsinore",
       "kind": "Theatrical",
@@ -1461,6 +1511,26 @@
       "checked": "2026-11-03"
     },
     {
+      "date": "2026-11-25",
+      "title": "Blade Runner 2099",
+      "kind": "TV series premiere",
+      "platform": "Prime Video",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Pride and Prejudice",
+      "kind": "TV series premiere",
+      "platform": "Netflix",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
       "date": "2026-12-04",
       "title": "Behemoth!",
       "kind": "Theatrical",
@@ -1469,11 +1539,51 @@
       "checked": "2026-11-03"
     },
     {
+      "date": "2026-12-08",
+      "title": "Only Murders in the Building",
+      "kind": "TV season 6 premiere",
+      "platform": "Canadian platform to verify",
+      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
+      "checked": "2026-11-03"
+    },
+    {
       "date": "2026-12-18",
       "title": "Dune: Part Three",
       "kind": "Theatrical",
       "source": "https://www.thepopverse.com/upcoming-movies-new-in-theaters-this-month-coming-soon",
       "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Dune: Part Three",
+      "kind": "Theatrical release",
+      "platform": "Canadian cinemas",
+      "source": "https://filmgrail.com/releases/canada/",
+      "certainty": "confirmed",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "The Debut",
+      "kind": "Canadian theatrical release",
+      "platform": "Canadian cinemas",
+      "source": "https://filmgrail.com/releases/canada/",
+      "certainty": "confirmed",
+      "region": "CA",
+      "checked": "2026-11-03"
+    },
+    {
+      "date": "2026-12-25",
+      "title": "Artificial",
+      "kind": "Theatrical release (North America; Canada to verify)",
+      "platform": "Canadian booking to verify",
+      "source": "https://www.the-numbers.com/movies/release-schedule/2026",
+      "certainty": "reported",
+      "region": "North America / Canada to verify",
       "checked": "2026-11-03"
     }
   ],
