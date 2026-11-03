@@ -17,6 +17,6 @@ GitHub Pages: main branch, repository root. No Netlify, build tools, database, A
 
 ## Release feed
 
-The initial releases.ics is empty but valid. Update it and data.json together when confirmed Canadian dates become available. Use stable UID values and all-day DTSTART;VALUE=DATE and exclusive DTEND;VALUE=DATE. Google Calendar controls feed refresh frequency.
+`releases.ics` is a populated, public iCalendar subscription feed; `data.json` contains the matching upcoming Canadian release events and their source URLs. Keep both in sync on every weekly update. Use stable UIDs, UTC DTSTAMP, all-day DTSTART;VALUE=DATE, and exclusive next-day DTEND;VALUE=DATE. Do not add unsourced dates or misrepresent North American dates as confirmed Canadian releases.
 
-The scheduled ChatGPT monthly Awards Watch report does not automatically commit website changes.
+Subscription URL: `https://idyllic-stroopwafel.github.io/awards-watch/releases.ics`. Apple Calendar can use `webcal://idyllic-stroopwafel.github.io/awards-watch/releases.ics`. Google Calendar supports Other calendars → From URL. A downloaded `.ics` is a one-time import, not a live subscription. Client refresh frequency is controlled by the calendar provider. The weekly Awards Watch & Site Update automation is instructed to maintain both the site and calendar feed.
