@@ -599,8 +599,8 @@
       "title": "The Rings of Power",
       "type": "tv",
       "tier": "Drama",
-      "status": "Excited to watch",
-      "reaction": "Really excited for the new season.",
+      "status": "Watched",
+      "reaction": "Great production value, and more Tolkien content for those who want it.",
       "poster": "https://www.impawards.com/tv/posters/lord_of_the_rings_the_rings_of_power_ver66_xxlg.jpg",
       "artworkCredit": "Prime Video official series promotional poster via IMP Awards",
       "assessment": {
@@ -621,7 +621,13 @@
       "synopsis": "Middle-earth faces Sauron’s ascent and the making of the Rings.",
       "people": "J. D. Payne and Patrick McKay; Morfydd Clark",
       "buzzSources": [],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personal": {
+        "verdict": "Liked it",
+        "rewatch": "Probably",
+        "opinion": "Peter",
+        "recommendation": "Not necessarily"
+      }
     },
     {
       "title": "Pluribus",
