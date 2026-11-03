@@ -468,7 +468,13 @@
         }
       ],
       "artworkStatus": "promotional artwork",
-      "personalVerdict": "Deserved winner"
+      "personalVerdict": "Deserved winner",
+      "personal": {
+        "verdict": "Loved it",
+        "rewatch": "Probably",
+        "opinion": "Both",
+        "recommendation": "Enthusiastically recommend"
+      }
     },
     {
       "title": "The Diplomat",
@@ -631,7 +637,13 @@
         }
       ],
       "artworkStatus": "promotional artwork",
-      "personalVerdict": "Thought-provoking"
+      "personalVerdict": "Thought-provoking",
+      "personal": {
+        "verdict": "Liked it",
+        "rewatch": "Maybe",
+        "opinion": "Peter",
+        "recommendation": "Recommend"
+      }
     },
     {
       "title": "The Studio",
@@ -660,7 +672,13 @@
       "people": "Seth Rogen and Evan Goldberg; Seth Rogen, Catherine O’Hara",
       "buzzSources": [],
       "artworkStatus": "promotional artwork",
-      "personalVerdict": "Must-see"
+      "personalVerdict": "Must-see",
+      "personal": {
+        "verdict": "Loved it",
+        "rewatch": "Absolutely",
+        "opinion": "Both",
+        "recommendation": "Enthusiastically recommend"
+      }
     },
     {
       "title": "Ted Lasso",
@@ -824,7 +842,7 @@
       "type": "tv",
       "tier": "Comedy",
       "status": "Up to date",
-      "reaction": "",
+      "reaction": "A dark comedy with awkward small-town characters caught up in an occult mystery thriller. The jump scares are absurd enough to make you laugh, but somehow still creepy. A fascinating blend.",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/623/1559488.jpg",
       "artworkCredit": "Apple TV promotional poster via TVmaze",
       "assessment": {
@@ -850,7 +868,13 @@
           "url": "https://apnews.com/article/5d9b89c9c548665b4c9d1345976286ae"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personal": {
+        "verdict": "Loved it",
+        "rewatch": "Absolutely",
+        "opinion": "Peter",
+        "recommendation": "Enthusiastically recommend"
+      }
     },
     {
       "title": "East of Eden",
