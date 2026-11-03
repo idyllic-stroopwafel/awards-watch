@@ -604,7 +604,7 @@
       "type": "tv",
       "tier": "Drama",
       "status": "Up to date",
-      "reaction": "",
+      "reaction": "A fascinating exploration of how the struggles and pleasures of human life make connection so rewarding. Well made, with a genuinely interesting central concept.",
       "poster": "https://resizing.flixster.com/_Vs6ORv-EUJBMr-PfIAqL6EAm-A%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMmQ2MWQ4MGMtNzQyNi00NzY0LWE1NmQtMWU3ZmNjMzI3NmVjLnBuZw%3D%3D",
       "artworkCredit": "Apple TV key art via Rotten Tomatoes",
       "assessment": {
@@ -630,7 +630,8 @@
           "url": "https://apnews.com/article/5d9b89c9c548665b4c9d1345976286ae"
         }
       ],
-      "artworkStatus": "promotional artwork"
+      "artworkStatus": "promotional artwork",
+      "personalVerdict": "Thought-provoking"
     },
     {
       "title": "The Studio",
