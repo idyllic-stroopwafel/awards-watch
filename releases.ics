@@ -4,102 +4,35 @@ PRODID:-//The Awards Watch//Canadian Releases//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:The Awards Watch - Oscars and Emmys
-X-WR-CALDESC:Current Oscar contenders and ongoing Emmy series; six-m
- onth rolling horizon
+X-WR-CALDESC:Canadian Oscar and Emmy viewing calendar
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-11-04-stick-tv-season-2-premiere@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Stick — TV season 2 premiere · Apple TV
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Apple TV. Source: http
- s://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-04-the-greatest-tv-season-premiere@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:The Greatest — TV season premiere · Prime Video
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Prime Video. Source: h
- ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-05-black-doves-tv-season-2-premiere@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Black Doves — TV season 2 premiere · Netflix
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Netflix. Source: https
- ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-being-heumann-theatrical-limited-@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Being Heumann — Theatrical (limited)
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
- /detail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06-wild-horse-nine-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Wild Horse Nine — Theatrical
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
- /detail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-11-the-rings-of-power-tv-season-3-premiere@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:The Rings of Power — TV season 3 premiere · Prime Video
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Prime Video. Source: h
- ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
+DESCRIPTION:Canadian release confirmed. Source: https://www.aboutama
+ zon.ca/news/entertainment/whats-new-on-prime-video-in-november-incl
+ uding-the-lord-of-the-rings-the-rings-of-power-season-3-blade-runne
+ r-2009-the-greatest-terrell-t-o-madden-golden-rivals-canada-vs-usa-
+ and-more
+URL:https://www.aboutamazon.ca/news/entertainment/whats-new-on-prime
+ -video-in-november-including-the-lord-of-the-rings-the-rings-of-pow
+ er-season-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golde
+ n-rivals-canada-vs-usa-and-more
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-club-kid-theatrical-limited-@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Club Kid — Theatrical (limited)
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
 URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
  /detail/
 STATUS:TENTATIVE
@@ -107,13 +40,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-i-play-rocky-theatrical-limited-@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:I Play Rocky — Theatrical (limited)
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
 URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
  /detail/
 STATUS:TENTATIVE
@@ -121,13 +54,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-the-altruists-tv-series-premiere@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:The Altruists — TV series premiere · Netflix
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Netflix. Source: https
- ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
 URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
  026
 STATUS:TENTATIVE
@@ -135,13 +67,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-elsinore-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Elsinore — Theatrical
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
 URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
  /detail/
 STATUS:TENTATIVE
@@ -149,13 +81,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-paper-tiger-theatrical-tiff-lightbox-@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Paper Tiger — Theatrical (TIFF Lightbox)
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
 URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
  /detail/
 STATUS:TENTATIVE
@@ -163,27 +95,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-blade-runner-2099-tv-series-premiere@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Blade Runner 2099 — TV series premiere · Prime Video
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Prime Video. Source: h
- ttps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
+DESCRIPTION:Canadian release confirmed. Source: https://www.aboutama
+ zon.ca/news/entertainment/whats-new-on-prime-video-in-november-incl
+ uding-the-lord-of-the-rings-the-rings-of-power-season-3-blade-runne
+ r-2009-the-greatest-terrell-t-o-madden-golden-rivals-canada-vs-usa-
+ and-more
+URL:https://www.aboutamazon.ca/news/entertainment/whats-new-on-prime
+ -video-in-november-including-the-lord-of-the-rings-the-rings-of-pow
+ er-season-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golde
+ n-rivals-canada-vs-usa-and-more
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-josephine-theatrical@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Josephine — Theatrical
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://letterboxd.com/torontoplex/list/to
- ronto-release-calendar/detail/
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://letterboxd.com/torontoplex/list/toronto-release-calendar/deta
+ il/
 URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
  /detail/
 STATUS:TENTATIVE
@@ -191,13 +127,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-pride-and-prejudice-tv-series-premiere@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pride and Prejudice — TV series premiere · Netflix
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Netflix. Source: https
- ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
 URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
  026
 STATUS:TENTATIVE
@@ -205,13 +140,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-behemoth--theatrical@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — Theatrical
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Source: https://www.thepopverse.com/upcoming-movie
- s-new-in-theaters-this-month-coming-soon
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://www.thepopverse.com/upcoming-movies-new-in-theaters-this-mont
+ h-coming-soon
 URL:https://www.thepopverse.com/upcoming-movies-new-in-theaters-this
  -month-coming-soon
 STATUS:TENTATIVE
@@ -220,15 +155,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-only-murders-in-the-building-tv-season-6-premiere@awa
  rds-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Only Murders in the Building — TV season 6 premiere · Canadi
  an platform to verify
-DESCRIPTION:Emmys: continuous television coverage. Reported Canadian
-  date\; verify local availability. Platform: Canadian platform to v
- erify. Source: https://editorial.rottentomatoes.com/article/tv-prem
- iere-dates-2026
+DESCRIPTION:Reported date\; verify Canadian availability. Source: ht
+ tps://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
 URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
  026
 STATUS:TENTATIVE
@@ -236,26 +169,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-dune-part-three-theatrical-release@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — Theatrical release · Canadian cinemas
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Platform: Canadian cinemas. Source: https://filmgr
- ail.com/releases/canada/
+DESCRIPTION:Canadian release confirmed. Source: https://filmgrail.co
+ m/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-the-debut-canadian-theatrical-release@awards-watch
-DTSTAMP:20261103T150000Z
+DTSTAMP:20261108T131800Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The Debut — Canadian theatrical release · Canadian cinemas
-DESCRIPTION:Current Oscars race. Reported Canadian date\; verify loc
- al availability. Platform: Canadian cinemas. Source: https://filmgr
- ail.com/releases/canada/
+DESCRIPTION:Canadian release confirmed. Source: https://filmgrail.co
+ m/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
