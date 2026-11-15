@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08",
-  "notice": "November 8: Possible Love now on Netflix Canada; Rings of Power season 3 (Nov 11) and Blade Runner 2099 (Nov 25) confirmed for Prime Video Canada. Reported release dates remain tentative until Canadian confirmation.",
+  "updated": "2026-11-15",
+  "notice": "November 15: Direct Canadian Netflix and Apple TV+ checks verified Possible Love and Pluribus Season 1. Older unverified streaming and theatrical claims were moved to a private research queue instead of being displayed as fresh availability. Canadian Prime Video November premiere dates remain sourced; check live playback before calling them currently available.",
   "titles": [
     {
       "title": "The Odyssey",
@@ -34,18 +34,7 @@
         "rewatch": "Absolutely",
         "opinion": "Both",
         "recommendation": "Enthusiastically recommend"
-      },
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Canadian theatres",
-          "access": "theatres",
-          "checked": "2026-11-02",
-          "source": "https://www.tribute.ca/showtimes/postalcode/m3h-0c3/the-odyssey/184810/",
-          "note": "Currently screening in Ontario cinemas, including Toronto.",
-          "score": 96
-        }
-      ]
+      }
     },
     {
       "title": "La Bola Negra",
@@ -117,17 +106,6 @@
         "verdict": "November editorial rank #4; prediction, not a nomination."
       },
       "mood": "either",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Prime Video",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/movie/project-hail-mary",
-          "note": "Science-fiction adventure with humour and big emotional stakes.",
-          "score": 91
-        }
-      ],
       "rank": 4,
       "synopsis": "A science teacher sent into space must save humanity with help from an unlikely ally.",
       "people": "Phil Lord and Christopher Miller; Ryan Gosling, Sandra Hüller",
@@ -233,17 +211,6 @@
       ],
       "artworkStatus": "promotional artwork",
       "mood": "either",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "PVOD rental",
-          "access": "rental",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/movie/the-invite-2026",
-          "note": "An intimate, awkward dinner-party comedy; paid digital rental.",
-          "score": 88
-        }
-      ],
       "personal": {
         "verdict": "Loved it",
         "rewatch": "Probably",
@@ -310,9 +277,12 @@
           "region": "CA",
           "service": "Netflix",
           "access": "subscription",
-          "checked": "2026-11-08",
-          "source": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-          "note": "Netflix confirmed worldwide subscription debut November 6, including Canada."
+          "checked": "2026-11-15",
+          "source": "https://www.netflix.com/ca/title/82106490",
+          "note": "Netflix Canada title page includes playback and subscription plans; verified November 15.",
+          "season": null,
+          "evidenceTier": "A",
+          "verificationStatus": "verified"
         }
       ]
     },
@@ -341,18 +311,7 @@
         }
       ],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null,
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Canadian theatres",
-          "access": "theatres",
-          "checked": "2026-11-02",
-          "source": "https://www.tribute.ca/showtimes/movie/mississauga/you-can-see-everything/200666/",
-          "note": "Currently screening at Canadian cinemas, including the Greater Toronto Area.",
-          "score": 87
-        }
-      ]
+      "poster": null
     },
     {
       "title": "Artificial",
@@ -434,18 +393,7 @@
           "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-10-26/2027-oscar-predictions-best-picture"
         }
       ],
-      "artworkStatus": "promotional artwork",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Canadian theatres",
-          "access": "theatres",
-          "checked": "2026-11-02",
-          "source": "https://www.tribute.ca/showtimes/movie/postalcode/l4l/fjord/199113/",
-          "note": "Currently screening at Canadian cinemas, including Toronto.",
-          "score": 85
-        }
-      ]
+      "artworkStatus": "promotional artwork"
     },
     {
       "title": "I Play Rocky",
@@ -522,7 +470,9 @@
           "access": "subscription",
           "checked": "2026-11-08",
           "source": "https://www.justwatch.com/ca/tv-show/the-pitt",
-          "note": "Canadian listing; provider's underlying check predates this review."
+          "note": "Canadian listing; provider's underlying check predates this review.",
+          "verificationStatus": "needs-direct-confirmation",
+          "evidenceTier": "B"
         },
         {
           "region": "CA",
@@ -530,7 +480,9 @@
           "access": "purchase",
           "checked": "2026-11-08",
           "source": "https://www.justwatch.com/ca/tv-show/the-pitt",
-          "note": "Paid digital purchase; not included in a subscription."
+          "note": "Paid digital purchase; not included in a subscription.",
+          "verificationStatus": "needs-direct-confirmation",
+          "evidenceTier": "B"
         }
       ],
       "synopsis": "A Pittsburgh emergency department’s intense shift unfolds in real time.",
@@ -567,17 +519,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://okay.uz/uploads/media3/thediplomats01_1726578324.jpg",
       "mood": "serious",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Netflix",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/the-diplomat",
-          "note": "A high-stakes political drama with Keri Russell.",
-          "score": 92
-        }
-      ],
       "artworkCredit": "Netflix promotional key art"
     },
     {
@@ -597,17 +538,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://images.vpro.nl/2z8gv0wkvbv6/w_2000/pfn_f720g9tly8o.webp",
       "mood": "serious",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Crave",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/the-gilded-age",
-          "note": "Gorgeous period drama about class and ambition in 1880s New York.",
-          "score": 83
-        }
-      ],
       "artworkCredit": "HBO promotional key art via VPRO Cinema"
     },
     {
@@ -651,7 +581,9 @@
           "access": "subscription",
           "checked": "2026-11-08",
           "source": "https://www.netflix.com/ca/title/81682935",
-          "note": "Canadian Netflix catalogue lists the series; season-two rollout reported November 5."
+          "note": "Canadian Netflix catalogue lists the series; season-two rollout reported November 5.",
+          "verificationStatus": "needs-direct-confirmation",
+          "evidenceTier": "B"
         }
       ],
       "artworkCredit": "Netflix promotional key art via Rotten Tomatoes"
@@ -702,7 +634,20 @@
           "access": "subscription",
           "checked": "2026-11-08",
           "source": "https://www.justwatch.com/ca/tv-show/pluribus",
-          "note": "Also offered through Apple TV Amazon Channel subscription."
+          "note": "Also offered through Apple TV Amazon Channel subscription.",
+          "verificationStatus": "needs-direct-confirmation",
+          "evidenceTier": "B"
+        },
+        {
+          "region": "CA",
+          "service": "Apple TV+",
+          "access": "subscription",
+          "checked": "2026-11-15",
+          "source": "https://tv.apple.com/ca/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza",
+          "note": "Canadian Apple TV Season 1 page offers subscription viewing.",
+          "season": 1,
+          "evidenceTier": "A",
+          "verificationStatus": "verified"
         }
       ],
       "synopsis": "A novelist resists a global transformation that makes people unnaturally happy.",
@@ -765,17 +710,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://resizing.flixster.com/t4Cn-OLEM1zy6sUSNxChzYh_CaE%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjk1NDk5Ny53ZWJw",
       "mood": "light",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Apple TV+",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/ted-lasso",
-          "note": "Optimistic football comedy with big-hearted character arcs.",
-          "score": 91
-        }
-      ],
       "artworkCredit": "Apple TV promotional key art via Rotten Tomatoes"
     },
     {
@@ -812,17 +746,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://store.donanimhaber.com/16/b9/06/16b906443ed7f9c3bea759264be90e33.jpeg",
       "mood": "light",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Netflix",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/nobody-wants-this",
-          "note": "A warm, witty romance between a podcaster and a rabbi.",
-          "score": 89
-        }
-      ],
       "artworkCredit": "Netflix promotional key art"
     },
     {
@@ -842,17 +765,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/583/1458045.jpg",
       "mood": "light",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Disney+",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/only-murders-in-the-building",
-          "note": "A playful murder mystery with Steve Martin, Martin Short, and Selena Gomez.",
-          "score": 90
-        }
-      ],
       "artworkCredit": "Hulu / Disney promotional key art via TVmaze",
       "personal": {
         "verdict": "Love it",
@@ -878,17 +790,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://resizing.flixster.com/-jDeeFMPrLsGvWxTrQPPOkTQFvw%3D/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjY1NDQ1MTMtNjQ5Mi00ZTY5LWE1YTEtOTUzMjMwMGEzODY5LnBuZw%3D%3D",
       "mood": "light",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Apple TV+",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/stick",
-          "note": "Owen Wilson's easygoing golf comedy.",
-          "score": 82
-        }
-      ],
       "artworkCredit": "Apple TV promotional key art via Rotten Tomatoes"
     },
     {
@@ -908,17 +809,6 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://www.impawards.com/tv/posters/st_denis_medical_xlg.jpg",
       "mood": "light",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Crave",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/st-denis-medical",
-          "note": "Fast-paced workplace comedy in an underfunded hospital.",
-          "score": 80
-        }
-      ],
       "artworkCredit": "NBC promotional key art via IMP Awards"
     },
     {
@@ -986,18 +876,7 @@
       "people": "Mike Flanagan",
       "buzzSources": [],
       "artworkStatus": "promotional artwork",
-      "mood": "serious",
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Prime Video",
-          "access": "subscription",
-          "checked": "2026-11-01",
-          "source": "https://www.justwatch.com/ca/tv-show/carrie/season-1",
-          "note": "Mike Flanagan's eight-part horror adaptation; season one available.",
-          "score": 87
-        }
-      ]
+      "mood": "serious"
     },
     {
       "title": "The Altruists",
@@ -1074,7 +953,9 @@
           "access": "subscription",
           "checked": "2026-11-08",
           "source": "https://www.aboutamazon.ca/news/entertainment/whats-new-on-prime-video-in-november-including-the-lord-of-the-rings-the-rings-of-power-season-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golden-rivals-canada-vs-usa-and-more",
-          "note": "Canadian Prime Video original premiered November 4."
+          "note": "Canadian Prime Video original premiered November 4.",
+          "verificationStatus": "needs-direct-confirmation",
+          "evidenceTier": "B"
         }
       ]
     },
@@ -1239,18 +1120,7 @@
         }
       ],
       "artworkStatus": "Artwork not yet verified",
-      "poster": null,
-      "availability": [
-        {
-          "region": "CA",
-          "service": "Canadian theatres",
-          "access": "theatres",
-          "checked": "2026-11-02",
-          "source": "https://www.tribute.ca/showtimes/movie/mississauga/sense-and-sensibility/194006/",
-          "note": "Currently screening at Canadian cinemas, including the Greater Toronto Area.",
-          "score": 84
-        }
-      ]
+      "poster": null
     },
     {
       "title": "Behemoth!",
@@ -1436,40 +1306,6 @@
     }
   ],
   "events": [
-    {
-      "date": "2026-11-11",
-      "title": "The Rings of Power",
-      "kind": "TV season 3 premiere",
-      "platform": "Prime Video",
-      "source": "https://www.aboutamazon.ca/news/entertainment/whats-new-on-prime-video-in-november-including-the-lord-of-the-rings-the-rings-of-power-season-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golden-rivals-canada-vs-usa-and-more",
-      "certainty": "confirmed",
-      "region": "CA",
-      "checked": "2026-11-08",
-      "editorialTrack": "emmys-continuous",
-      "editorialPriority": "television"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Club Kid",
-      "kind": "Theatrical (limited)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "checked": "2026-11-03",
-      "editorialTrack": "oscars-current",
-      "editorialPriority": "current-oscars",
-      "certainty": "reported"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "I Play Rocky",
-      "kind": "Theatrical (limited)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "checked": "2026-11-03",
-      "editorialTrack": "oscars-current",
-      "editorialPriority": "current-oscars",
-      "certainty": "reported"
-    },
     {
       "date": "2026-11-19",
       "title": "The Altruists",
