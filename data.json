@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-22",
-  "notice": "November 22: Canadian provider checks refreshed Netflix and Apple TV+ films/series, and Crave's The Pitt. Separate season-level records maintained; older unverified offers remain research leads, not confirmed current availability. Calendar past dates expired; future dates remain subject to source confirmation.",
+  "notice": "November 22 supplemental digital-storefront audit: The Odyssey confirmed for digital purchase on Prime Video Canada; Peter reports a Canadian digital rental (retailer not specified). Other PVOD leads remain stale pending direct verification. Personal viewing records unchanged.",
   "titles": [
     {
       "title": "The Odyssey",
@@ -34,7 +34,31 @@
         "rewatch": "Absolutely",
         "opinion": "Both",
         "recommendation": "Enthusiastically recommend"
-      }
+      },
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Prime Video",
+          "access": "purchase",
+          "checked": "2026-11-22",
+          "source": "https://www.primevideo.com/detail/0GJKEO73O691T3BW9K4EG4R584?tr=ca",
+          "note": "Canadian Prime Video storefront shows Buy UHD CAD $24.99; does not establish rental or Prime subscription.",
+          "season": null,
+          "evidenceTier": "A",
+          "verificationStatus": "verified"
+        },
+        {
+          "region": "CA",
+          "service": "Digital storefront (user-reported)",
+          "access": "rental",
+          "checked": "2026-11-22",
+          "source": "https://www.odysseymovie.ca/",
+          "note": "Peter reports successfully purchasing a digital rental in Canada on Nov 22; storefront unspecified. Official Canadian distributor site lists watch-at-home options. Do not treat source as independent confirmation of rental price or retailer.",
+          "season": null,
+          "evidenceTier": "user-report",
+          "verificationStatus": "user-confirmed"
+        }
+      ]
     },
     {
       "title": "La Bola Negra",
