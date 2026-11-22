@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-11-22",
-  "notes": "Separate parallel movie/TV research queues. Stale means not reverified, not confirmed removed. Verify actual source check timestamp before claiming freshness.",
+  "notes": "Supplemental Nov 22 check: Odyssey Prime Video Canada digital purchase independently verified; rental user-confirmed, storefront unknown. Historical aggregator PVOD leads for Project Hail Mary and The Invite require fresh direct verification. Stale does not mean unavailable.",
   "movieQueue": [
     {
       "title": "The Odyssey",
@@ -9,11 +9,11 @@
       "season": null,
       "service": "Canadian theatres",
       "access": "theatres",
-      "lastChecked": "2026-11-02",
-      "lastSource": "https://www.tribute.ca/showtimes/postalcode/m3h-0c3/the-odyssey/184810/",
-      "status": "stale-or-superseded",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://www.odysseymovie.ca/",
+      "status": "partially-verified",
       "priority": "high",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Confirm specific Canadian digital rental storefront and price; check Apple TV Store, Prime Video rental, Google TV, Cineplex; Prime Video purchase verified 2026-11-22; user confirms rental on unspecified storefront."
     },
     {
       "title": "La Bola Negra",
@@ -34,10 +34,10 @@
       "service": null,
       "access": null,
       "lastChecked": null,
-      "lastSource": null,
+      "lastSource": "https://www.justwatch.com/ca/movie/wild-horse-nine",
       "status": "not-verified",
       "priority": "critical",
-      "nextAction": "Research Canada subscription, paid rental and theatrical; identify season where TV"
+      "nextAction": "Recheck direct Canadian storefront and current rental/subscription/theatrical options. Nov 7 Canadian aggregator listed theatres; stale under seven-day rule."
     },
     {
       "title": "Project Hail Mary",
@@ -49,7 +49,7 @@
       "lastSource": "https://www.justwatch.com/ca/movie/project-hail-mary",
       "status": "stale-or-superseded",
       "priority": "high",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Recheck direct Canadian storefront and current rental/subscription/theatrical options. Older Sep 11 Canada aggregator listed Prime subscription plus Apple/Amazon/CosmoGo rental; stale, not reverified."
     },
     {
       "title": "The Debut",
@@ -85,7 +85,7 @@
       "lastSource": "https://www.justwatch.com/ca/movie/the-invite-2026",
       "status": "stale-or-superseded",
       "priority": "high",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Recheck direct Canadian storefront and current rental/subscription/theatrical options. Older Sep 10 Canada aggregator listed Apple TV Store, Amazon Video, CosmoGo rental; stale, not reverified."
     },
     {
       "title": "All of a Sudden",
@@ -302,6 +302,18 @@
       "status": "not-verified",
       "priority": "normal",
       "nextAction": "Research Canada subscription, paid rental and theatrical; identify season where TV"
+    },
+    {
+      "title": "The Odyssey",
+      "type": "movie",
+      "season": null,
+      "service": "Prime Video",
+      "access": "purchase",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://www.primevideo.com/detail/0GJKEO73O691T3BW9K4EG4R584?tr=ca",
+      "status": "verified",
+      "priority": "high",
+      "nextAction": "Recheck in seven days; separately check rental and subscription."
     }
   ],
   "tvQueue": [
