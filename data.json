@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15",
-  "notice": "November 15: Direct Canadian Netflix and Apple TV+ checks verified Possible Love and Pluribus Season 1. Older unverified streaming and theatrical claims were moved to a private research queue instead of being displayed as fresh availability. Canadian Prime Video November premiere dates remain sourced; check live playback before calling them currently available.",
+  "updated": "2026-11-22",
+  "notice": "November 22: Canadian provider checks refreshed Netflix and Apple TV+ films/series, and Crave's The Pitt. Separate season-level records maintained; older unverified offers remain research leads, not confirmed current availability. Calendar past dates expired; future dates remain subject to source confirmation.",
   "titles": [
     {
       "title": "The Odyssey",
@@ -277,9 +277,9 @@
           "region": "CA",
           "service": "Netflix",
           "access": "subscription",
-          "checked": "2026-11-15",
+          "checked": "2026-11-22",
           "source": "https://www.netflix.com/ca/title/82106490",
-          "note": "Netflix Canada title page includes playback and subscription plans; verified November 15.",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown.",
           "season": null,
           "evidenceTier": "A",
           "verificationStatus": "verified"
@@ -483,6 +483,28 @@
           "note": "Paid digital purchase; not included in a subscription.",
           "verificationStatus": "needs-direct-confirmation",
           "evidenceTier": "B"
+        },
+        {
+          "region": "CA",
+          "service": "Crave",
+          "access": "subscription",
+          "checked": "2026-11-22",
+          "source": "https://www.crave.ca/en/series/the-pitt-57372",
+          "season": 1,
+          "evidenceTier": "A",
+          "verificationStatus": "verified",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown."
+        },
+        {
+          "region": "CA",
+          "service": "Crave",
+          "access": "subscription",
+          "checked": "2026-11-22",
+          "source": "https://www.crave.ca/en/series/the-pitt-57372",
+          "season": 2,
+          "evidenceTier": "A",
+          "verificationStatus": "verified",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown."
         }
       ],
       "synopsis": "A Pittsburgh emergency department’s intense shift unfolds in real time.",
@@ -519,7 +541,20 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://okay.uz/uploads/media3/thediplomats01_1726578324.jpg",
       "mood": "serious",
-      "artworkCredit": "Netflix promotional key art"
+      "artworkCredit": "Netflix promotional key art",
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Netflix",
+          "access": "subscription",
+          "checked": "2026-11-22",
+          "source": "https://www.netflix.com/ca/title/81288983",
+          "season": null,
+          "evidenceTier": "A",
+          "verificationStatus": "verified",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown."
+        }
+      ]
     },
     {
       "title": "The Gilded Age",
@@ -642,9 +677,9 @@
           "region": "CA",
           "service": "Apple TV+",
           "access": "subscription",
-          "checked": "2026-11-15",
+          "checked": "2026-11-22",
           "source": "https://tv.apple.com/ca/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza",
-          "note": "Canadian Apple TV Season 1 page offers subscription viewing.",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown.",
           "season": 1,
           "evidenceTier": "A",
           "verificationStatus": "verified"
@@ -691,7 +726,20 @@
         "rewatch": "Absolutely",
         "opinion": "Both",
         "recommendation": "Enthusiastically recommend"
-      }
+      },
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Apple TV+",
+          "access": "subscription",
+          "checked": "2026-11-22",
+          "source": "https://tv.apple.com/ca/show/the-studio/umc.cmc.7518algxc4lsoobtsx30dqb52",
+          "season": 1,
+          "evidenceTier": "A",
+          "verificationStatus": "verified",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown."
+        }
+      ]
     },
     {
       "title": "Ted Lasso",
@@ -746,7 +794,20 @@
       "artworkStatus": "promotional artwork",
       "poster": "https://store.donanimhaber.com/16/b9/06/16b906443ed7f9c3bea759264be90e33.jpeg",
       "mood": "light",
-      "artworkCredit": "Netflix promotional key art"
+      "artworkCredit": "Netflix promotional key art",
+      "availability": [
+        {
+          "region": "CA",
+          "service": "Netflix",
+          "access": "subscription",
+          "checked": "2026-11-22",
+          "source": "https://www.netflix.com/ca/title/81591296",
+          "season": null,
+          "evidenceTier": "A",
+          "verificationStatus": "verified",
+          "note": "Direct Canadian provider page reviewed November 22; season-specific only where shown."
+        }
+      ]
     },
     {
       "title": "Only Murders in the Building",
@@ -1306,40 +1367,6 @@
     }
   ],
   "events": [
-    {
-      "date": "2026-11-19",
-      "title": "The Altruists",
-      "kind": "TV series premiere",
-      "platform": "Netflix",
-      "source": "https://editorial.rottentomatoes.com/article/tv-premiere-dates-2026",
-      "certainty": "reported",
-      "region": "North America / Canada to verify",
-      "checked": "2026-11-03",
-      "editorialTrack": "emmys-continuous",
-      "editorialPriority": "television"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Elsinore",
-      "kind": "Theatrical",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "checked": "2026-11-03",
-      "editorialTrack": "oscars-current",
-      "editorialPriority": "current-oscars",
-      "certainty": "reported"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Paper Tiger",
-      "kind": "Theatrical (TIFF Lightbox)",
-      "source": "https://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/",
-      "region": "CA",
-      "certainty": "reported",
-      "checked": "2026-11-03",
-      "editorialTrack": "oscars-current",
-      "editorialPriority": "current-oscars"
-    },
     {
       "date": "2026-11-25",
       "title": "Blade Runner 2099",
