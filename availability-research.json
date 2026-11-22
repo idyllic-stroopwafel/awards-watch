@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-22",
   "notes": "Separate parallel movie/TV research queues. Stale means not reverified, not confirmed removed. Verify actual source check timestamp before claiming freshness.",
   "movieQueue": [
     {
@@ -105,11 +105,11 @@
       "season": null,
       "service": "Netflix",
       "access": "subscription",
-      "lastChecked": "2026-11-08",
-      "lastSource": "https://about.netflix.com/en/news/possible-love-premieres-november-6",
-      "status": "stale-or-superseded",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://www.netflix.com/ca/title/82106490",
+      "status": "verified",
       "priority": "normal",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Recheck after seven days; verify additional modes independently"
     },
     {
       "title": "You Can See Everything",
@@ -311,11 +311,11 @@
       "season": "needs season identification",
       "service": "Netflix",
       "access": "subscription",
-      "lastChecked": "2026-11-01",
-      "lastSource": "https://www.justwatch.com/ca/tv-show/the-diplomat",
-      "status": "stale-or-superseded",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://www.netflix.com/ca/title/81288983",
+      "status": "verified",
       "priority": "normal",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Recheck after seven days; verify additional modes independently"
     },
     {
       "title": "The Gilded Age",
@@ -344,14 +344,14 @@
     {
       "title": "The Studio",
       "type": "tv",
-      "season": "needs season identification",
-      "service": null,
-      "access": null,
-      "lastChecked": null,
-      "lastSource": null,
-      "status": "not-verified",
+      "season": 1,
+      "service": "Apple TV+",
+      "access": "subscription",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://tv.apple.com/ca/show/the-studio/umc.cmc.7518algxc4lsoobtsx30dqb52",
+      "status": "verified",
       "priority": "normal",
-      "nextAction": "Research Canada subscription, paid rental and theatrical; identify season where TV"
+      "nextAction": "Recheck after seven days; verify additional modes independently"
     },
     {
       "title": "Ted Lasso",
@@ -383,11 +383,11 @@
       "season": "needs season identification",
       "service": "Netflix",
       "access": "subscription",
-      "lastChecked": "2026-11-01",
-      "lastSource": "https://www.justwatch.com/ca/tv-show/nobody-wants-this",
-      "status": "stale-or-superseded",
+      "lastChecked": "2026-11-22",
+      "lastSource": "https://www.netflix.com/ca/title/81591296",
+      "status": "verified",
       "priority": "normal",
-      "nextAction": "Reverify Canadian offer using live provider or fresh Canada-specific source; do not infer unavailable"
+      "nextAction": "Recheck after seven days; verify additional modes independently"
     },
     {
       "title": "Only Murders in the Building",
