@@ -7,55 +7,16 @@ X-WR-CALNAME:The Awards Watch - Oscars and Emmys
 X-WR-CALDESC:Curated Canadian Oscar and Emmy viewing calendar
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:2026-11-19-the-altruists-tv-series-premiere@awards-watch
-DTSTAMP:20261115T135120Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:The Altruists — TV series premiere · Netflix
-DESCRIPTION:Canadian status: reported / verify Canada. Source: https
- ://editorial.rottentomatoes.com/article/tv-premiere-dates-2026
-URL:https://editorial.rottentomatoes.com/article/tv-premiere-dates-2
- 026
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-elsinore-theatrical@awards-watch
-DTSTAMP:20261115T135120Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Elsinore — Theatrical
-DESCRIPTION:Canadian status: reported / verify Canada. Source: https
- ://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
- /detail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-paper-tiger-theatrical-tiff-lightbox-@awards-watch
-DTSTAMP:20261115T135120Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Paper Tiger — Theatrical (TIFF Lightbox)
-DESCRIPTION:Canadian status: reported / verify Canada. Source: https
- ://letterboxd.com/torontoplex/list/toronto-release-calendar/detail/
-URL:https://letterboxd.com/torontoplex/list/toronto-release-calendar
- /detail/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-25-blade-runner-2099-tv-series-premiere@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Blade Runner 2099 — TV series premiere · Prime Video
-DESCRIPTION:Canadian status: confirmed scheduled date. Source: https
- ://www.aboutamazon.ca/news/entertainment/whats-new-on-prime-video-i
- n-november-including-the-lord-of-the-rings-the-rings-of-power-seaso
- n-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golden-rivals
- -canada-vs-usa-and-more
+DESCRIPTION:Canadian status: confirmed listing. Source: https://www.
+ aboutamazon.ca/news/entertainment/whats-new-on-prime-video-in-novem
+ ber-including-the-lord-of-the-rings-the-rings-of-power-season-3-bla
+ de-runner-2009-the-greatest-terrell-t-o-madden-golden-rivals-canada
+ -vs-usa-and-more
 URL:https://www.aboutamazon.ca/news/entertainment/whats-new-on-prime
  -video-in-november-including-the-lord-of-the-rings-the-rings-of-pow
  er-season-3-blade-runner-2009-the-greatest-terrell-t-o-madden-golde
@@ -65,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-josephine-theatrical@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Josephine — Theatrical
@@ -78,7 +39,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-pride-and-prejudice-tv-series-premiere@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pride and Prejudice — TV series premiere · Netflix
@@ -91,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-behemoth--theatrical@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Behemoth! — Theatrical
@@ -105,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-only-murders-in-the-building-tv-season-6-premiere@awa
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Only Murders in the Building — TV season 6 premiere · Canadi
@@ -119,24 +80,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-dune-part-three-theatrical-release@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three — Theatrical release · Canadian cinemas
-DESCRIPTION:Canadian status: confirmed scheduled date. Source: https
- ://filmgrail.com/releases/canada/
+DESCRIPTION:Canadian status: confirmed listing. Source: https://film
+ grail.com/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-the-debut-canadian-theatrical-release@awards-watch
-DTSTAMP:20261115T135120Z
+DTSTAMP:20261122T133300Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The Debut — Canadian theatrical release · Canadian cinemas
-DESCRIPTION:Canadian status: confirmed scheduled date. Source: https
- ://filmgrail.com/releases/canada/
+DESCRIPTION:Canadian status: confirmed listing. Source: https://film
+ grail.com/releases/canada/
 URL:https://filmgrail.com/releases/canada/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
